@@ -1,1 +1,4 @@
-# No third-party dependencies required (Python 3.9+ standard library only).
+Flask
+gunicorn
+python-dotenv
+openai
