@@ -1,0 +1,17 @@
+{
+  "signature": "cad0a56e64e35dcb1aef4e487861762b9ac960ebe81e9728cbed549874763329",
+  "clip_id": 76,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.1,
+    "emotion_score": 8.9,
+    "rationale": "The scene opens with a formal greeting, immediately setting a tense atmosphere. The dialogue reveals a complex political situation, which is clear and engaging. The final line, 'Then let them believe it a little longer,' leaves the audience wondering about Alexander's next move, creating a strong cliffhanger. The emotional impact is high due to the revelation of his mother's captivity and his stoic response.",
+    "hook_evidence": "\"Your Grace.\" Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.",
+    "cliffhanger_evidence": "Close-up of the informant looking steadily at Alexander. 'Then let them believe it a little longer.' Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish.",
+    "needs_video_review": false,
+    "overall_score": 8.33
+  }
+}

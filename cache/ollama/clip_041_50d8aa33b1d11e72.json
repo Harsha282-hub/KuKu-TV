@@ -1,0 +1,17 @@
+{
+  "signature": "50d8aa33b1d11e7249bf4d7ada03b1de7b3eb4fe34e28e97ef00398be7ff5a2d",
+  "clip_id": 41,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The dialogue and camera work create a tense, intimate moment, but the hook is somewhat weak due to the slow setup. The cliffhanger, however, leaves the audience with a powerful emotional moment that is unresolved, creating a strong cliffhanger. The clarity is high, and the emotion is palpable, but the initial three seconds are slow to establish the tension.",
+    "hook_evidence": "\"Why do you look at me like that?\"",
+    "cliffhanger_evidence": "Alexander's gaze into Juliana's eyes with raw, unmasked devotion, followed by his emotional statement.",
+    "needs_video_review": false,
+    "overall_score": 8.15
+  }
+}

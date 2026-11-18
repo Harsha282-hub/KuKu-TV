@@ -1,0 +1,17 @@
+{
+  "signature": "71c6a77e6f230717acb4da9061489f37c7818e2b165733f16ad4ce3dad4169ad",
+  "clip_id": 85,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 9.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.3,
+    "rationale": "The scene starts with a close-up of Lady Juliana comforting Prudence, which is a strong emotional hook. However, the setup is slow and the first three seconds do not immediately convey the tension or urgency. The cliffhanger is powerful, leaving Lady Juliana in a state of profound realization and resolve, which is highly emotional and unresolved. The dialogue and actions are clear, but the initial setup is not as immediate as it could be.",
+    "hook_evidence": "Lady Juliana takes Prudence's trembling hands into hers, smiling with heartfelt warmth.",
+    "cliffhanger_evidence": "Slow push-in on Lady Juliana staring down at the ancient pages, her expression filled with profound realization and growing resolve as dramatic strings swell to a gripping cliffhanger.",
+    "needs_video_review": false,
+    "overall_score": 8.37
+  }
+}

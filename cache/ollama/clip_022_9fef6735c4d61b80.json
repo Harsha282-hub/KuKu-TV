@@ -1,0 +1,17 @@
+{
+  "signature": "9fef6735c4d61b80ffc71e50b75d409365ba5fb68b2578facedc313d10751fa7",
+  "clip_id": 22,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, with a close-up of Lady Ashcroft's action, but the dialogue is not immediately impactful. The cliffhanger is high due to the emotional moment of Juliana holding the book and the Mysterious Bearded Man's supportive presence. Clarity is high as the events are clear without prior context. Emotion is strong due to the emotional scenes and dialogue.",
+    "hook_evidence": "\"Then you should have guarded it better.\"",
+    "cliffhanger_evidence": "Medium two-shot of Juliana pressing the soiled book tightly against her chest, weeping softly.",
+    "needs_video_review": false,
+    "overall_score": 8.025
+  }
+}

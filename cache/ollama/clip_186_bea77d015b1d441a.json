@@ -1,0 +1,17 @@
+{
+  "signature": "bea77d015b1d441a7aeed7409894dd4f52b871c11ff035fe34a97bbca590a591",
+  "clip_id": 186,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 5.8,
+    "clarity_score": 8.7,
+    "emotion_score": 8.3,
+    "rationale": "The hook is moderately strong, as it introduces a tense situation with a nobleman being forced to kneel, but the dialogue is delayed, which slightly lowers the score. The cliffhanger is somewhat weak because the scene ends with Catherine standing in the center of the aisle, which is a neutral and not particularly suspenseful ending. The clarity is high as the events are well described and understandable. The emotion is strong, with Catherine's emotional breakdown and the tension between her and Alexander.",
+    "hook_evidence": "\"I have more than enough.\" Close-up on the Constable's black-gloved hands holding out a thick, red-ribboned dossier stamped with the Crown's royal wax seal.",
+    "cliffhanger_evidence": "Medium shot of Catherine standing in the center of the aisle before the seated congregation.",
+    "needs_video_review": false,
+    "overall_score": 7.02
+  }
+}

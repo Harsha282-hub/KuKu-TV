@@ -1,0 +1,17 @@
+{
+  "signature": "5c798cb5ac17af4b6fe58ce107843c7892bcddb40dbc694b14b6d5354d850438",
+  "clip_id": 184,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 8.0,
+    "emotion_score": 9.2,
+    "rationale": "The hook is strong with immediate tension and a character in distress, but the setup is slow. The cliffhanger is effective with a character fleeing, leaving the audience uncertain of their fate. Clarity is good, though some context is needed. The emotional impact is high, with intense and dramatic dialogue and actions.",
+    "hook_evidence": "\"I didn't!\" (BLOND NOBLEMAN) and Rupert clutching his chest as if choking on his own lies.",
+    "cliffhanger_evidence": "Lord Henry Sterling slipping out of his seat and making a break toward the side exit.",
+    "needs_video_review": false,
+    "overall_score": 8.085
+  }
+}

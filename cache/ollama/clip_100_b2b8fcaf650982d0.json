@@ -1,0 +1,17 @@
+{
+  "signature": "b2b8fcaf650982d0c8dface095b66bede73fbbcbbd68fe3cfdcbf61b3c69a4e0",
+  "clip_id": 100,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 5.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is somewhat weak as the first three seconds are mostly camera work without dialogue or action that would grab immediate attention. The cliffhanger is strong, as the scene ends with Alexander's request for Juliana to tell him everything, leaving the audience wanting to know what she will reveal. Clarity is high as the dialogue and actions are clear and the context is understandable. The emotion is high due to the tension and vulnerability of the characters.",
+    "hook_evidence": "Medium shot of Juliana looking down sheepishly before raising her eyes. (No dialogue or action to immediately engage the viewer)",
+    "cliffhanger_evidence": "\"Everything you saw.\" (Alexander's request leaves the audience wanting to know what Juliana will reveal)",
+    "needs_video_review": false,
+    "overall_score": 7.5
+  }
+}

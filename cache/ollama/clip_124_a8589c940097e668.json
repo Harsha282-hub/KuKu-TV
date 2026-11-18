@@ -1,0 +1,17 @@
+{
+  "signature": "a8589c940097e66879a2707a74c0991500c264074c609991745109cb203778d2",
+  "clip_id": 124,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, with Catherine's dialogue and Juliana's dignified response setting up a tense confrontation. However, the initial camera angle is on Catherine, which might not immediately draw the viewer's attention. The cliffhanger is high due to Catherine's final line, which leaves the audience questioning Juliana's fate. Clarity is high as the dialogue and actions are clear and understandable. The emotion is strong, with the characters' conflicting emotions and the dramatic setting contributing to a powerful scene.",
+    "hook_evidence": "\"Do you remember?\"",
+    "cliffhanger_evidence": "\"[laughs] Love? Look where your precious love brought you.\"",
+    "needs_video_review": false,
+    "overall_score": 7.85
+  }
+}

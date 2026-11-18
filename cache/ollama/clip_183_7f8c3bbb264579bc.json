@@ -1,0 +1,17 @@
+{
+  "signature": "7f8c3bbb264579bcade79aaff84794d360d5b141d2edb6d8fdf004c31f03620b",
+  "clip_id": 183,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.0,
+    "clarity_score": 9.0,
+    "emotion_score": 9.5,
+    "rationale": "The opening scene immediately sets up tension and conflict, but the setup is slow, reducing the hook score. The final moments leave the audience with unresolved tension, increasing the cliffhanger score. The dialogue and actions are clear and the context is understandable, boosting clarity. The emotional impact is high due to the dramatic confrontation and the revelation of deception.",
+    "hook_evidence": "Medium close-up on Rupert Ashburn standing before the altar, trembling with mounting panic and rage. \"You're lying!\"",
+    "cliffhanger_evidence": "Rupert spinning toward the gathered congregation, his hands flailing. \"You have all been deceived!\"",
+    "needs_video_review": false,
+    "overall_score": 8.225
+  }
+}

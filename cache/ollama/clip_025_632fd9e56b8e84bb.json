@@ -1,0 +1,17 @@
+{
+  "signature": "632fd9e56b8e84bbffa81758f771f18dd60ab0b329964cf5fe794c1e3da21c7b",
+  "clip_id": 25,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 5.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.1,
+    "rationale": "The hook is somewhat weak as the first three seconds focus on a medium close-up of Juliana, which doesn't immediately grab attention. The dialogue starts at 6 seconds, but the context is slow to build. The cliffhanger is strong, ending with Juliana's emotional statement about losing her home, leaving the audience wanting to know more. Clarity is high as the events are well described and understandable. The emotional impact is high due to the raw, suppressed emotion and gratitude portrayed by Juliana.",
+    "hook_evidence": "Medium close-up of Juliana meeting his gaze honestly. Over-the-shoulder shot behind Juliana as the Mysterious Bearded Man listens intently.",
+    "cliffhanger_evidence": "\"I lost my home today.\"",
+    "needs_video_review": false,
+    "overall_score": 7.4
+  }
+}

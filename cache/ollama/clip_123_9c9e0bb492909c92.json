@@ -1,0 +1,17 @@
+{
+  "signature": "9c9e0bb492909c92e95492bf54544f039e2f3f850bfc23a5ce3daed968369db7",
+  "clip_id": 123,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 8.0,
+    "emotion_score": 9.3,
+    "rationale": "The hook is moderately strong, with the Elder Nobleman's ominous declaration, but the setup is slow. The cliffhanger is excellent, leaving Juliana's fate unresolved and evoking intense emotion. Clarity is good, though some context might be needed for full understanding. The emotional impact is high, with Catherine's glee and Juliana's fear and hope.",
+    "hook_evidence": "\"She goes before the magistrate tomorrow.\"",
+    "cliffhanger_evidence": "Juliana clutches a rough burlap rag to her trembling chest, her tear-stained face lifting upward in dread and fragile hope as the frame holds, cutting abruptly to black.",
+    "needs_video_review": false,
+    "overall_score": 7.815
+  }
+}

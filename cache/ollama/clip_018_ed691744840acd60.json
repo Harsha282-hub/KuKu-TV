@@ -1,0 +1,17 @@
+{
+  "signature": "ed691744840acd60b58b4cd7b4cd89d8cb61856ea1582f3a3b55ecee6710a840",
+  "clip_id": 18,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The opening shot and dialogue immediately set a dramatic tone, but the setup is slow, reducing the hook. The ending leaves the audience with a powerful image of Juliana's resolve, but the cliffhanger is somewhat resolved, slightly lowering the score. The dialogue and actions are clear and emotionally impactful, with no need for prior context.",
+    "hook_evidence": "High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar. Dramatic musical chord swelling.",
+    "cliffhanger_evidence": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out.",
+    "needs_video_review": false,
+    "overall_score": 7.815
+  }
+}

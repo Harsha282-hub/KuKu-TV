@@ -1,0 +1,17 @@
+{
+  "signature": "891ad0e5e20273c0c8a7c52032b6b4112ecbf1e2c0149b0161d442355df2ce1a",
+  "clip_id": 176,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.0,
+    "clarity_score": 9.0,
+    "emotion_score": 9.5,
+    "rationale": "The opening shot and Catherine's commanding presence immediately create intrigue and tension. The scene's focus on Juliana's entrance and the nobles' reactions provide clear context. The emotional impact is high due to the dramatic and tense situation.",
+    "hook_evidence": "Wide symmetrical shot looking down the candlelit, flower-strewn aisle toward the altar where Rupert, Catherine, and the Priest stand. Catherine abruptly pulls away from Rupert and raises her white-gloved hand high, commanding silence from the congregation.",
+    "cliffhanger_evidence": "Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride. Not as a bride this time.",
+    "needs_video_review": false,
+    "overall_score": 8.225
+  }
+}

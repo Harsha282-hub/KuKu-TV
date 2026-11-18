@@ -1,0 +1,17 @@
+{
+  "signature": "9989ed569dde10257d652fe1d65041377a794f3e9436e57ce0ae5b09674bc11e",
+  "clip_id": 166,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.2,
+    "rationale": "The hook is moderately strong, as it shows Juliana's desperation and emotional state, but it's not immediately clear what the context is. The cliffhanger is very strong, ending with a powerful statement of loyalty that leaves the viewer wanting to know more. Clarity is high, as the events are well described and the emotions are clear. The emotional impact is high due to the intensity of Juliana's situation and her determination.",
+    "hook_evidence": "\"Thank you.\" Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite.",
+    "cliffhanger_evidence": "I will not give them my husband. I will not betray him.",
+    "needs_video_review": false,
+    "overall_score": 8.16
+  }
+}

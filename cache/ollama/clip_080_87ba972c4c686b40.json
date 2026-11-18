@@ -1,0 +1,17 @@
+{
+  "signature": "87ba972c4c686b40f709c2324c8042475543df1389c2b506a2b7b824f706ca07",
+  "clip_id": 80,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The hook is somewhat weak as the first three seconds show a mundane action without immediate conflict or intrigue. The cliffhanger is strong, ending with Catherine's ominous statement about taking over Ashbury. Clarity is high as the events are well described and understandable. Emotion is high due to the tension between Juliana and Seamus, and Catherine's arrogance.",
+    "hook_evidence": "Seamus reaches down to take the handle of the basket from her.",
+    "cliffhanger_evidence": "\"...Ashbury will finally belong to us.\"",
+    "needs_video_review": false,
+    "overall_score": 7.67
+  }
+}

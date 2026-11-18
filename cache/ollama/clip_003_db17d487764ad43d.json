@@ -1,0 +1,17 @@
+{
+  "signature": "db17d487764ad43dba516bca9717ede6533ab3fec6c77743a26114b5eafeb34e",
+  "clip_id": 3,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The hook is strong with Juliana's emotional breakdown and the revelation of a conspiracy, but the initial three seconds are slow to establish the urgency. The cliffhanger is effective with the Matriarch's abrupt interruption, leaving Juliana's plea unanswered. The scene is clear and emotionally charged, but the setup is slightly delayed.",
+    "hook_evidence": "\"You let me come here...\" and Juliana's hands clenching her dress, showing her distress.",
+    "cliffhanger_evidence": "The Matriarch's sudden interruption: \"Enough!\"",
+    "needs_video_review": false,
+    "overall_score": 7.875
+  }
+}

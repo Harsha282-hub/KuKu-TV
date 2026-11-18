@@ -1,0 +1,17 @@
+{
+  "signature": "faefd4c0c12ad636cf7fd703968daef98792c482498157b3d272c7b5d202b3a0",
+  "clip_id": 213,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.3,
+    "rationale": "The scene starts with a dialogue that hints at a significant moment, but the camera angle and Catherine's seductive smile are not shown, lowering the hook score. The final scene leaves Agnes in a tense position, creating unresolved suspense. The dialogue and actions are clear, but the emotional intensity is high, making it impactful.",
+    "hook_evidence": "\"For as long as it holds.\"",
+    "cliffhanger_evidence": "Through the crack of the door, Agnes sees Catherine and the shirtless priest locked in an intimate, passionate embrace upon the bed.",
+    "needs_video_review": true,
+    "overall_score": 7.77
+  }
+}

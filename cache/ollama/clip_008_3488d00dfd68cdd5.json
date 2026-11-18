@@ -1,0 +1,17 @@
+{
+  "signature": "3488d00dfd68cdd568f59d2679c76624d6a2e15dd77f6e5fc596c195e00c8e20",
+  "clip_id": 8,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.3,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, with immediate emotional tension and conflict. However, the first three seconds are slow to establish the key conflict, lowering the score. The cliffhanger is effective, leaving Juliana's final statement unresolved and impactful. Clarity is high, as the events are well-defined and understandable. The emotional impact is high, with Juliana's transformation and the confrontation with Gerald and Clarissa being powerful.",
+    "hook_evidence": "\"Do not disgrace us further.\" - BLOND NOBLEMAN. The dialogue is clear but the visual setup is slow.",
+    "cliffhanger_evidence": "\"...because another woman promised you greater beauty and wealth.\" - LADY JULIANA. Juliana's final statement is left unresolved, creating a strong cliffhanger.",
+    "needs_video_review": false,
+    "overall_score": 7.975
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "a9b1ef0bf4663a6c0bf64374f6b43f859a80f5942d010195e56ffefc2b4cca3e",
+  "clip_id": 84,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The opening dialogue immediately sets a tense and emotional scene, but the lack of visual context in the first three seconds slightly lowers the hook score. The cliffhanger ends with Prudence lifting the kettle, leaving unresolved tension about Toby's condition. The dialogue and action are clear and emotionally impactful, with no need for prior context.",
+    "hook_evidence": "\"Oh dear. Breathe. Tell me what has happened.\"",
+    "cliffhanger_evidence": "Prudence wraps a cloth around the iron handle of the steaming kettle resting over the hearth fire and lifts it.",
+    "needs_video_review": false,
+    "overall_score": 8.165
+  }
+}

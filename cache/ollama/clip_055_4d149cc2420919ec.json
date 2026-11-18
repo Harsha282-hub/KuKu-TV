@@ -1,0 +1,17 @@
+{
+  "signature": "4d149cc2420919ec08e125fce7157ad6d4f2dc1cc63d87627c4cc7d31d56f636",
+  "clip_id": 55,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 5.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The scene opens with a dialogue that hints at a past event, creating intrigue. However, the initial three seconds are slow and don't immediately grab attention. The final seven seconds are emotionally charged, but the scene ends on a cliffhanger with Alexander's hardened gaze, leaving the audience wanting more context and resolution.",
+    "hook_evidence": "\"You should never have had to bleed for me.\"",
+    "cliffhanger_evidence": "Alexander's hardened gaze and the phrase 'No one will ever hurt you for protecting me again.'",
+    "needs_video_review": false,
+    "overall_score": 7.5
+  }
+}

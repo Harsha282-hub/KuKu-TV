@@ -1,0 +1,17 @@
+{
+  "signature": "aa3e220d9c854c65557ee4fd0776cee7deb96f56bdc76989026dd5a05f00b8e2",
+  "clip_id": 190,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.5,
+    "rationale": "The hook is strong with the revelation of Alexander's true identity, but the initial dialogue is slow to establish the urgency. The cliffhanger is effective as it leaves Catherine's emotional state unresolved, hinting at conflict. The clarity is high as the scene is well-paced and the dialogue is clear. The emotion is intense due to the intimate and emotional exchange between Alexander and Juliana.",
+    "hook_evidence": "\"It's you.\" / \"It was always me.\"",
+    "cliffhanger_evidence": "Catherine takes a desperate step forward, clutching her skirts and weeping. / \"Alexander...\"",
+    "needs_video_review": false,
+    "overall_score": 7.845
+  }
+}

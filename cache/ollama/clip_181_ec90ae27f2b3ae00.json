@@ -1,0 +1,17 @@
+{
+  "signature": "ec90ae27f2b3ae0035f2e973540eca4363c4adff1235ecb697d89d463d166e6a",
+  "clip_id": 181,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The opening shot and Alexander's deliberate entrance create intrigue, but the setup is slow. The climax with the guards' refusal to arrest Alexander is a strong cliffhanger, leaving the audience questioning the situation. The dialogue and actions are clear, and the emotional tension between Alexander and Juliana is palpable.",
+    "hook_evidence": "Low-angle shot through drifting smoke and rubble, revealing an imposing nobleman in a gold-embroidered navy coat. Alexander strides deliberately through the pulverized cathedral doorway, dressed in the regal ducal coat with gold braided cuffs and a lion crest.",
+    "cliffhanger_evidence": "Close-up on the Royal Guard holding his upright blade with unwavering conviction. 'Because we know who he is.'",
+    "needs_video_review": false,
+    "overall_score": 7.67
+  }
+}

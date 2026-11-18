@@ -1,0 +1,17 @@
+{
+  "signature": "e0cee29d6d63d699623000b9e9cf95e959310091503fa2ec031f142ad2647c81",
+  "clip_id": 139,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 8.0,
+    "emotion_score": 9.2,
+    "rationale": "The hook is strong with the maid's emotional breakdown and the Lord's sinister revelation, but the initial three seconds are slow to establish the urgency. The cliffhanger is excellent, leaving the maid's fate unresolved and the audience questioning her testimony. The clarity is good, though some context might be needed for full understanding. The emotional impact is high, with the maid's desperation and the Lord's cold demeanor creating a tense atmosphere.",
+    "hook_evidence": "\"...and spoke words you could not understand.\"",
+    "cliffhanger_evidence": "\"That will be your testimony.\"",
+    "needs_video_review": false,
+    "overall_score": 8.185
+  }
+}

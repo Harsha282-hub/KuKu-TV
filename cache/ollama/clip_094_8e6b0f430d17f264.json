@@ -1,0 +1,17 @@
+{
+  "signature": "8e6b0f430d17f2642219c313cf21ab491cbe20927ec5cd5fe276d9bacbd28700",
+  "clip_id": 94,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The scene opens with Prudence's anxious demeanor, setting a tense atmosphere. However, the noblewoman's sudden and aggressive action in the first three seconds is not fully visible, lowering the hook score. The final seven seconds leave the audience with unresolved tension, as Lady Juliana's actions suggest she is hiding something significant, raising the cliffhanger score. The dialogue and actions are clear and comprehensible, and the emotional impact is strong due to the tension and hidden motives.",
+    "hook_evidence": "Prudence steps toward the noblewoman in distress, her hands clasped tightly. The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.",
+    "cliffhanger_evidence": "Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within. I will return. You cannot stop the healer.",
+    "needs_video_review": false,
+    "overall_score": 7.94
+  }
+}

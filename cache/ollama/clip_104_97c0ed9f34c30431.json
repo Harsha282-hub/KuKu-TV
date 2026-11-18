@@ -1,0 +1,17 @@
+{
+  "signature": "97c0ed9f34c3043111fec66ed58f3f9c9c8f91168f841de8a853ab248b4318f1",
+  "clip_id": 104,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.3,
+    "emotion_score": 8.7,
+    "rationale": "The scene opens with a tense, mysterious atmosphere, but the first three seconds are mostly camera setup, lowering the hook score. The final seven seconds provide a strong emotional moment with the Duchess's recognition, but the scene ends unresolved, slightly raising the cliffhanger score. The dialogue and actions are clear and the emotional impact is high due to the tension and the Duchess's gratitude.",
+    "hook_evidence": "Wide shot framed through heavy bed curtains in a dark, candlelit bedchamber. Juliana in her maid's apron sits vigilantly beside the canopied bed where the frail Dowager Duchess lies.",
+    "cliffhanger_evidence": "\"You... you are no common servant. You took Catherine's whip for me the other day.\"",
+    "needs_video_review": false,
+    "overall_score": 7.81
+  }
+}

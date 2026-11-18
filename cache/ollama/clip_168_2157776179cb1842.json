@@ -1,0 +1,17 @@
+{
+  "signature": "2157776179cb1842dde37eb49b0718c4695032ee55764d4bfc394d18a555e11c",
+  "clip_id": 168,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, with Juliana's determination and the immediate setup of an important event. However, the first three seconds are slow to establish the urgency. The cliffhanger is high due to the unresolved tension of Juliana's fate and the impending event. Clarity is high as the scene is well-paced and the dialogue is clear. The emotion is strong, with Juliana's emotional intensity and the impending event creating a powerful impact.",
+    "hook_evidence": "\"Keep him safe.\" Wherever he is. Let him live.",
+    "cliffhanger_evidence": "Then I suppose I'm next.",
+    "needs_video_review": false,
+    "overall_score": 8.12
+  }
+}

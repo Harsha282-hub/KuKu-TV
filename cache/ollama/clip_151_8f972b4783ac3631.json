@@ -1,0 +1,17 @@
+{
+  "signature": "8f972b4783ac3631cea78be49906260fc168d5c1885a5dd94d877e469a6f6fa5",
+  "clip_id": 151,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The scene opens with an elderly woman crawling through a stone doorway, setting a tense and mysterious tone. The dialogue and emotional reactions in the final moments are powerful and impactful, but the setup is somewhat slow, reducing the hook score. The cliffhanger leaves the audience with a powerful emotional moment, enhancing the cliffhanger score.",
+    "hook_evidence": "The heavy stone doorway swings inward, and the elderly woman ducks low, crawling through the opening into the cold night outside.",
+    "cliffhanger_evidence": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest.",
+    "needs_video_review": false,
+    "overall_score": 8.375
+  }
+}

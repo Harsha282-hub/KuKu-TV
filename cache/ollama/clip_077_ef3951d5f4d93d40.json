@@ -1,0 +1,17 @@
+{
+  "signature": "ef3951d5f4d93d40d927f0804938c09659eb3ba2a84e9dee55464cc4727b0a73",
+  "clip_id": 77,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.2,
+    "emotion_score": 8.9,
+    "rationale": "The opening scene sets a somber and emotional tone with Juliana's reaction to the destruction of her home. The dialogue and action are clear, but the scene lacks immediate tension or a hook in the first three seconds. The cliffhanger is effective as it leaves Juliana's decision unresolved, but the ending is too resolved to fully qualify as a cliffhanger.",
+    "hook_evidence": "Juliana clutches her mother's scorched leather-bound herbal book against her chest, her face streaked with soot as she stares at the ruin in disbelief.",
+    "cliffhanger_evidence": "You saved my son's life. [pause] We cannot ask the village to feed us.",
+    "needs_video_review": false,
+    "overall_score": 7.855
+  }
+}

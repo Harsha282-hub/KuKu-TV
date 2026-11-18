@@ -1,0 +1,17 @@
+{
+  "signature": "31e9442a04aee0043b1afb7fa74031ca255ca6fbe99eddc58ebc83e60f018f78",
+  "clip_id": 97,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 8.5,
+    "rationale": "The scene opens with a medical examination, immediately setting a tense and serious tone. However, the first three seconds are too slow to grab attention, hence the lower hook score. The final seven seconds leave a cliffhanger with Alexander's question, which is effective. The dialogue and actions are clear, but the emotional impact is slightly reduced by the lack of visual context in the first three seconds.",
+    "hook_evidence": "\"You're hurt.\" - Alexander",
+    "cliffhanger_evidence": "\"Who?\" - Alexander",
+    "needs_video_review": false,
+    "overall_score": 8.315
+  }
+}

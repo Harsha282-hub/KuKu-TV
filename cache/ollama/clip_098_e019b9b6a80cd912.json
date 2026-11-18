@@ -1,0 +1,17 @@
+{
+  "signature": "e019b9b6a80cd91295c494dc1571df3dae3dec336e6869ef30feca39887944f2",
+  "clip_id": 98,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.3,
+    "emotion_score": 8.7,
+    "rationale": "The hook is somewhat weak as the first three seconds only reveal the word 'Arsenic,' which doesn't immediately create a strong emotional response or immediate tension. The cliffhanger is strong as the scene ends with Juliana's hand on Alexander's chest, hinting at a conflict between them. Clarity is high as the dialogue and actions are clear and understandable. Emotion is high due to the tension between the characters and the protective nature of the scene.",
+    "hook_evidence": "\"Arsenic.\"",
+    "cliffhanger_evidence": "Juliana places her gentle hand against Alexander's broad chest, trying to soothe his rising anger.",
+    "needs_video_review": false,
+    "overall_score": 7.81
+  }
+}

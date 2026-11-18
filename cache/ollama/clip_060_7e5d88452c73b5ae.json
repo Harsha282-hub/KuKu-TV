@@ -1,0 +1,17 @@
+{
+  "signature": "7e5d88452c73b5ae3a285647ced820485655731ce1df8da8473c5b1efc16cf5c",
+  "clip_id": 60,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 8.5,
+    "rationale": "The hook is strong with immediate action and tension, but the setup is slow. The cliffhanger is effective with unresolved tension. The events are clear and emotionally impactful, though the ending is unresolved.",
+    "hook_evidence": "\"Stay behind me.\"",
+    "cliffhanger_evidence": "Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall. Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall.",
+    "needs_video_review": false,
+    "overall_score": 8.315
+  }
+}

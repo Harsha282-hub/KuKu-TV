@@ -1,0 +1,17 @@
+{
+  "signature": "7d15666cd4e6788a309fde6af5a364770d9b208f110f8129f165e83f5f62935c",
+  "clip_id": 70,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The hook is strong with immediate action and tension, but the setup is slow. The cliffhanger is effective with Juliana's emotional reaction, but the ending is resolved. The clarity is high as the events are clear and the dialogue is understandable. The emotional impact is high due to the dramatic rescue and loss.",
+    "hook_evidence": "\"The window!\" and Alexander sprints through the burning room toward the framed glass window.",
+    "cliffhanger_evidence": "\"Everything we had is gone.\"",
+    "needs_video_review": false,
+    "overall_score": 8.515
+  }
+}

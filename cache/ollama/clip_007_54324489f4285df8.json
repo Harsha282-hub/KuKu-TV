@@ -1,0 +1,17 @@
+{
+  "signature": "54324489f4285df874711163884f3e61a51977415d32c8c40285aae72cf0981f",
+  "clip_id": 7,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.2,
+    "rationale": "The hook is moderately strong, establishing a conflict between Juliana and Clarissa, but the initial dialogue is slow to start. The cliffhanger is effective, leaving Juliana's emotional state unresolved and emphasizing her humiliation. The clarity of the scene is high, as the dialogue and camera work clearly convey the tension and emotions. The emotional impact is very high, as Juliana's reaction to her father's rejection and Clarissa's mocking are powerful.",
+    "hook_evidence": "\"You gave me your word before both our families.\" - LADY JULIANA",
+    "cliffhanger_evidence": "Close-up on Juliana, whose tearful expression begins to tighten with quiet indignation. - LADY IN GOLD GOWN, \"Gerald needs a real lady...\"",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

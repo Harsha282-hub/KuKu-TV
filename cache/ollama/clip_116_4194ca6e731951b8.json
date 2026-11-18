@@ -1,0 +1,17 @@
+{
+  "signature": "4194ca6e731951b87f3598013f7c853b9af9ed50462d3429ebf8c90c065b6e17",
+  "clip_id": 116,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 8.0,
+    "clarity_score": 9.0,
+    "emotion_score": 9.5,
+    "rationale": "The scene opens with intense dialogue and visual elements that immediately engage the viewer, setting a high hook score. The final moments, showing Juliana's emotional breakdown, create a strong cliffhanger. The dialogue and actions are clear and understandable, and the emotional impact is significant, with Juliana's fear and grief being palpable.",
+    "hook_evidence": "\"You are doing this because I saved the Duchess!\" and Juliana's raised chin, unwavering pride breaking through her tears.",
+    "cliffhanger_evidence": "Juliana's tear-drenched face crumpling in overwhelming grief, with the final line 'Mother...' suggesting unresolved tension.",
+    "needs_video_review": false,
+    "overall_score": 8.575
+  }
+}

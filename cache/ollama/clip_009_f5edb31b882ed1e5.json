@@ -1,0 +1,17 @@
+{
+  "signature": "f5edb31b882ed1e5a88105ca81a038fd0a2a42d4976aae83cf96f2ace8c84990",
+  "clip_id": 9,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The opening dialogue and camera angle immediately set a tense and emotional scene, capturing the heartbreak of Juliana. The final moments, with Juliana's father's unyielding face, leave the audience with unresolved tension and a cliffhanger.",
+    "hook_evidence": "\"I cannot marry you, Juliana.\" Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating.",
+    "cliffhanger_evidence": "Close-up of the father's stern, unyielding face.",
+    "needs_video_review": false,
+    "overall_score": 8.525
+  }
+}

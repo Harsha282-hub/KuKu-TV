@@ -1,0 +1,17 @@
+{
+  "signature": "515adc36466064ff6681ad47d0943919afc507eeacefb128c034b37e4b7d2647",
+  "clip_id": 50,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 8.9,
+    "emotion_score": 9.1,
+    "rationale": "The scene opens with Clarissa's ominous warning, setting a tense and foreboding atmosphere. The dialogue and camera angles effectively build tension. The final moments, with Juliana's hands reaching out and the sharp blackthorn spines, create a powerful and unresolved cliffhanger. The events are clear and emotionally impactful, though the first three seconds are slow to establish the immediate tension.",
+    "hook_evidence": "\"Careful, sister.\" Low-angle shot of Clarissa smirking down over the carved stone balustrade.",
+    "cliffhanger_evidence": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin. \"No...\"",
+    "needs_video_review": false,
+    "overall_score": 8.3
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "2ccd82e2db8f676acae28a4d6ae51a5f7ceaf1e85ca42275a122a4ea3326090f",
+  "clip_id": 82,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 9.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.3,
+    "rationale": "The scene starts with a medium shot of Rupert leaning into Catherine's ear, setting a seductive tone. However, the first three seconds are too slow to establish immediate hook. The final seven seconds, with Catherine's icy gaze and the dramatic strings, create a strong cliffhanger. The dialogue and actions are clear and the emotional impact is high, with Catherine's ambition and cold determination well portrayed.",
+    "hook_evidence": "\"You have no rival here, Catherine.\"",
+    "cliffhanger_evidence": "Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.",
+    "needs_video_review": false,
+    "overall_score": 8.72
+  }
+}

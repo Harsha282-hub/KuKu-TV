@@ -1,0 +1,17 @@
+{
+  "signature": "474de6f76ffd7e49d38d2ea1deefbce510089c0d1f752c4fa5c893536746da3b",
+  "clip_id": 174,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.2,
+    "rationale": "The hook is somewhat weak as the first three seconds are mostly camera work and dialogue that doesn't immediately grab attention. The cliffhanger is strong, ending with a conspiratorial, triumphant smile that leaves the viewer wanting more. Clarity is high, with clear dialogue and visual cues. Emotion is high due to the romantic and triumphant tone of the scene.",
+    "hook_evidence": "The first three seconds are mostly camera work and dialogue that doesn't immediately grab attention.",
+    "cliffhanger_evidence": "Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the scene cuts to black.",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

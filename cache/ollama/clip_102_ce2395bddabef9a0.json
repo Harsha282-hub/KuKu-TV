@@ -1,0 +1,17 @@
+{
+  "signature": "ce2395bddabef9a0738bfdda448e3f396f47f6f866c158a4a734ed447be46701",
+  "clip_id": 102,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 8.9,
+    "rationale": "The opening scene sets a tense and mysterious atmosphere, but the hook is somewhat weak due to the slow setup. The cliffhanger is strong as it leaves Juliana's fate unresolved, with Alexander's volatile reaction and the unexplained injury creating suspense. The dialogue and actions are clear, and the emotional impact is high due to the tension and pain portrayed.",
+    "hook_evidence": "Wide tracking shot through a dense, sun-dappled forest as mist curls around towering tree trunks and tangled roots. Juliana walks hurriedly along the leaf-strewn forest path, clutching her dark hooded cloak tightly around her shoulders, breathing heavily.",
+    "cliffhanger_evidence": "Medium close-up of Juliana averting her eyes, her head bowed in quiet resignation. Alexander's scarred face darkening with volatile fury, his jaw tightening. 'Who did this?'",
+    "needs_video_review": false,
+    "overall_score": 7.805
+  }
+}

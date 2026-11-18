@@ -1,0 +1,17 @@
+{
+  "signature": "32c7d32d53e0af3ecb75418596508d4af758dc352a0763e454a6398ca9dbed19",
+  "clip_id": 88,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.3,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.5,
+    "rationale": "The scene starts with a close-up of Lady Juliana, setting a tense and secretive atmosphere. However, the dialogue is slow to establish the urgency of the situation, lowering the hook score. The cliffhanger is effective as the Housekeeper questions Juliana's appearance, leaving the audience uncertain of her fate. The dialogue and actions are clear and emotionally charged, but the initial setup is somewhat slow.",
+    "hook_evidence": "\"No one will recognize me dressed like this.\"",
+    "cliffhanger_evidence": "\"She looks soft.\"",
+    "needs_video_review": false,
+    "overall_score": 7.62
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "e0ce38fd210e4be93c6dd3fc65718aeff0064d6d3cea5ce035f4262fc9e49a3d",
+  "clip_id": 157,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 9.0,
+    "clarity_score": 9.5,
+    "emotion_score": 9.5,
+    "rationale": "The scene opens with a dialogue that immediately sets up a tense situation, but the first three seconds are slow on action, lowering the hook score. The final seven seconds leave the audience with a powerful, unresolved image of Alexander standing in the doorway, staring into the forest, which is highly effective for a cliffhanger. The dialogue and actions are clear and the emotional impact is strong, with Alexander's determination and rage being palpable.",
+    "hook_evidence": "\"What wedding?\"",
+    "cliffhanger_evidence": "Alexander stands framed in the doorway, staring out into the vast, snow-covered pine forest under the cold moonlight.",
+    "needs_video_review": false,
+    "overall_score": 9.0
+  }
+}

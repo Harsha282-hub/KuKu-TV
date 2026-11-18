@@ -1,0 +1,17 @@
+{
+  "signature": "c0735dfaa9e076e4b518c544153bc35928fc2c481d3c5509a47737b5c2a627ec",
+  "clip_id": 73,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.5,
+    "rationale": "The dialogue and action in the first three seconds hint at a significant loss, creating a strong emotional hook. The final seven seconds provide a resolution that leaves the audience with a sense of urgency and unresolved tension about their future. The scene is clear and emotionally impactful, but the hook is somewhat delayed due to the setup.",
+    "hook_evidence": "\"Everything we had is gone.\" Alexander kneels beside her in the grass, resting a steady, protective hand on her back.",
+    "cliffhanger_evidence": "Alexander draws her firmly into his arms, wrapping both burly arms around her as she buries her face into his shoulder, weeping uncontrollably.",
+    "needs_video_review": false,
+    "overall_score": 7.865
+  }
+}

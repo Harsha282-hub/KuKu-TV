@@ -1,0 +1,17 @@
+{
+  "signature": "2eda2084e902790b4732eb0dd5009f052b88d54c0c9f646be16187553f6e6ad8",
+  "clip_id": 48,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 8.9,
+    "emotion_score": 9.1,
+    "rationale": "The scene opens with a close-up of Clarissa whispering a threat, creating intrigue. The final moments are unresolved, leaving Juliana's fate uncertain. The dialogue and actions are clear and emotionally charged, but the setup is slow.",
+    "hook_evidence": "\"Fail, or refuse, and your husband hangs from the gallows.\"",
+    "cliffhanger_evidence": "Juliana turns her head sharply back toward Clarissa, her expression hardening with fierce resolution. \"Tell me where the garden is.\"",
+    "needs_video_review": false,
+    "overall_score": 8.3
+  }
+}

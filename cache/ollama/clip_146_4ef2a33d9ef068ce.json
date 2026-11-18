@@ -1,0 +1,17 @@
+{
+  "signature": "4ef2a33d9ef068ce8416e1efd8d52717a1ccf96d205c35033237488b6cceeecf",
+  "clip_id": 146,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 5.8,
+    "clarity_score": 8.9,
+    "emotion_score": 7.3,
+    "rationale": "The opening shot and dialogue establish the tense and serious atmosphere, but the setup is slow, which lowers the hook score. The scene ends with a cliffhanger, but the unresolved question is not as impactful as it could be, hence the lower cliffhanger score. The clarity is high, and the emotion is moderate, as the scene is set for a dramatic confrontation.",
+    "hook_evidence": "High wide establishing shot from behind the presiding judge looking down into the grand, sunlit courtroom filled with stern spectators, armed bailiffs, and Lady Juliana standing confined in the wooden prisoner's dock on the left.",
+    "cliffhanger_evidence": "The Judge leans over his elevated bench, staring down critically, and the dialogue ends with 'No.' without a clear resolution to the question posed.",
+    "needs_video_review": false,
+    "overall_score": 6.97
+  }
+}

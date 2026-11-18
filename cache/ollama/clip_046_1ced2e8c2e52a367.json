@@ -1,0 +1,17 @@
+{
+  "signature": "1ced2e8c2e52a3676a828d9a40927860ddfada995b6c073842007f54bfd3aad2",
+  "clip_id": 46,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 8.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is strong with the tension between Clarissa and Juliana, but the initial camera work is slow. The cliffhanger is excellent, leaving Juliana's fate unresolved. The dialogue and actions are clear, but the emotional impact is high due to the tension and the threat of violence.",
+    "hook_evidence": "Tight shot of Alexander's trembling fist and Clarissa's vicious smile, setting up a tense confrontation.",
+    "cliffhanger_evidence": "Juliana's trembling breathing and the threat of violence hanging over her, leaving the audience unsure of her fate.",
+    "needs_video_review": false,
+    "overall_score": 8.25
+  }
+}

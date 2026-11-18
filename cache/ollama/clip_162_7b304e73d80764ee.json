@@ -1,0 +1,17 @@
+{
+  "signature": "7b304e73d80764eeb117e420048606d266d0fe2235eb1ccf16a1dc4aa6d7f367",
+  "clip_id": 162,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.1,
+    "emotion_score": 8.5,
+    "rationale": "The hook is strong with immediate dialogue and camera work setting a tense scene, but it's not as immediate as the first three seconds could be. The cliffhanger leaves a question unresolved, which is effective. Clarity is high as the context is clear from the dialogue. The emotional impact is high due to the sinister nature of the plot and the characters' reactions.",
+    "hook_evidence": "\"The transfer of Ashbridge.\" Medium close-up of Catherine picking up one of the invitations, turning it over in her gloved hands with predatory delight.",
+    "cliffhanger_evidence": "\"And after the ceremony...\" \"What?\"",
+    "needs_video_review": false,
+    "overall_score": 8.29
+  }
+}

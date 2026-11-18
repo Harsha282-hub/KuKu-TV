@@ -1,0 +1,17 @@
+{
+  "signature": "db66b4d8a1e4599adc6f382371970462f0c59eaaa455d460d047a30bfd6db180",
+  "clip_id": 103,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 9.7,
+    "cliffhanger_score": 8.9,
+    "clarity_score": 9.3,
+    "emotion_score": 9.5,
+    "rationale": "The opening gasp and the Duchess's shocked reaction immediately grab attention. The scene's tension and the Duchess's sudden, intense reaction keep the viewer engaged until the end. The dialogue and camera work are clear and emotionally charged, evoking curiosity and concern.",
+    "hook_evidence": "A sharp, stunned gasp. The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.",
+    "cliffhanger_evidence": "The Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve. 'Do not move! Where... where... Where did you get this ring? Speak to me!'",
+    "needs_video_review": false,
+    "overall_score": 9.34
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "644cb2469e4cb1e6c476383a39864662e8c5db03df6cf0a7da93a396a4a14d60",
+  "clip_id": 86,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, as it introduces a tense situation with Lady Juliana rushing to the Dowager Duchess's aid, but the initial dialogue is slow and lacks immediate urgency. The cliffhanger is high due to the sudden and intense confrontation between the two characters, leaving the audience with unresolved tension. The clarity of the scene is high, as the events are well described and understandable. The emotional impact is strong, as the scene builds tension and fear, and the final dialogue is urgent and impactful.",
+    "hook_evidence": "\"This house...\" Prudence rushes into frame, grabbing Juliana's arm to keep her moving. Do not stare. Keep walking.",
+    "cliffhanger_evidence": "Intense two-shot as Lady Juliana leans in close, gripping the Duchess's shoulder with urgent desperation. \"Who has been treating you?\"",
+    "needs_video_review": false,
+    "overall_score": 8.12
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "6662f80038c7a577aaafa6a2840968da263c241cf525a4f998ed6c93d0492f4c",
+  "clip_id": 75,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 5.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The hook is somewhat weak as the first three seconds show a quiet, reassuring interaction that doesn't immediately grab attention. The cliffhanger is strong, leaving Alexander's question unresolved and hinting at potential conflict. Clarity is high as the events are well described and understandable. Emotion is high due to Juliana's emotional reaction and the bittersweet goodbye.",
+    "hook_evidence": "The elder villager's gentle interaction with Juliana does not immediately create a sense of urgency or intrigue.",
+    "cliffhanger_evidence": "\"Tell me what is happening in Ashburg.\" - Alexander's question leaves the audience wanting to know the answer.",
+    "needs_video_review": false,
+    "overall_score": 7.32
+  }
+}

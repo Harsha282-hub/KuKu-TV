@@ -1,0 +1,17 @@
+{
+  "signature": "c94c788ea084bae755539b6e166d2d417aaa3e7269a44eb7386061cc9c38e8fd",
+  "clip_id": 144,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, as it introduces a critical moment of Lady Juliana's defiance, but the slow setup in the first three seconds lowers the score. The cliffhanger is high due to the Judge's furious reaction and the unresolved tension. Clarity is high, and the emotional impact is strong, especially with Lady Juliana's unwavering stance and Prudence's grief.",
+    "hook_evidence": "\"Even now, she refuses to repent.\"",
+    "cliffhanger_evidence": "The Judge furiously smashes his gavel down upon the sound block with a deafening crack.",
+    "needs_video_review": false,
+    "overall_score": 8.025
+  }
+}

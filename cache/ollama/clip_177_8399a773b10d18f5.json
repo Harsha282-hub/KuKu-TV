@@ -1,0 +1,17 @@
+{
+  "signature": "8399a773b10d18f5dc1d77ebe637bf20fbfea1931df7ca84da7e94342b19e955",
+  "clip_id": 177,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.1,
+    "emotion_score": 8.9,
+    "rationale": "The scene opens with Juliana's defiant stance, setting a strong hook. However, the initial three seconds are mostly camera work, which slightly lowers the hook score. The cliffhanger is effective as it ends with a priest's question, leaving unresolved tension. The dialogue and actions are clear and emotionally charged, but the lack of a clear resolution in the final moments slightly reduces the cliffhanger score.",
+    "hook_evidence": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze.",
+    "cliffhanger_evidence": "\"Shall we?\"",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

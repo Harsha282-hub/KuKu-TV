@@ -1,0 +1,17 @@
+{
+  "signature": "77a412e1eb8ea032edf79375fbcf95d1a485e21edde5b2a2c88d4722d1c3e151",
+  "clip_id": 212,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The scene opens with Catherine in a dramatic setting, hinting at intrigue and tension. However, the first three seconds are mostly camera work, which slightly lowers the hook score. The final seven seconds leave the audience with a sense of anticipation, as Catherine's faint smile and the line about preferring thorough secrets suggest a deeper, unresolved mystery. The dialogue and setting are clear, but the emotional impact is strong due to the characters' interactions and the tense atmosphere.",
+    "hook_evidence": "Medium shot on Catherine, draped in a dark hooded cloak over a lavish crimson bodice, holding a brass candlestick aloft.",
+    "cliffhanger_evidence": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly. 'You didn't need them the first time, either. I just prefer my secrets thorough.'",
+    "needs_video_review": false,
+    "overall_score": 7.67
+  }
+}

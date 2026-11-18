@@ -1,0 +1,17 @@
+{
+  "signature": "9fb26f16095c1c35233d1eec25f7f2d6857c4da315c3000690bb9e4b18ef0a80",
+  "clip_id": 207,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.2,
+    "emotion_score": 8.7,
+    "rationale": "The opening scene sets a tense and ominous tone with Catherine's cold demeanor and the dialogue about the healer's fate. However, the lack of immediate action or dialogue in the first three seconds slightly lowers the hook score. The scene ends with Catherine emphasizing her plans, leaving the audience curious about the consequences, which is a strong cliffhanger. The dialogue and actions are clear and the emotional impact is high due to Catherine's menacing tone and actions.",
+    "hook_evidence": "\"Two words, and that healer's crown rolls right back into the gutter where it belongs.\"",
+    "cliffhanger_evidence": "Catherine raises a gloved index finger, emphasizing each point with sinister precision.",
+    "needs_video_review": false,
+    "overall_score": 7.835
+  }
+}

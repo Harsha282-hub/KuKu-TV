@@ -1,0 +1,17 @@
+{
+  "signature": "a619c1ccde3dc2447575c7263cdc08c034f50c390b8040a4a16b0aa2db0780e9",
+  "clip_id": 143,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 8.9,
+    "rationale": "The hook is moderately strong with the resolute Lady Juliana denying the charges, but the setup is slow. The cliffhanger is effective as the Judge's question leaves the audience uncertain of the outcome. Clarity is high, and the emotional impact is strong due to the tension and Lady Juliana's defiance.",
+    "hook_evidence": "\"No.\" (LADY JULIANA, 13.8-14.8)",
+    "cliffhanger_evidence": "\"Prudence. You served beside the accused?\" (JUDGE, 37.5-41.2)",
+    "needs_video_review": false,
+    "overall_score": 7.805
+  }
+}

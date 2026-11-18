@@ -1,0 +1,17 @@
+{
+  "signature": "2b1dd3aed971b2316260e197778fa4a68fac584c252c3404796a826d11a05b9d",
+  "clip_id": 49,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.5,
+    "rationale": "The opening scene immediately establishes intense emotional tension with Alexander's anguished face, setting a high hook score. The final moments, with Juliana's continued struggle and pain, create a strong cliffhanger. The dialogue and action are clear and the emotional impact is palpable, with Juliana's suffering and Alexander's desperation driving the scene.",
+    "hook_evidence": "Extreme close-up of Alexander's anguished face as he strains furiously against his handcuffs.",
+    "cliffhanger_evidence": "Close-up of Juliana wincing in agony and screaming through clenched teeth.",
+    "needs_video_review": false,
+    "overall_score": 8.865
+  }
+}

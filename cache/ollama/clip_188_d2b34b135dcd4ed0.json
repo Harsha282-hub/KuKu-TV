@@ -1,0 +1,17 @@
+{
+  "signature": "d2b34b135dcd4ed02c03dca4a5cad4e71d2ab10eeb46430f1e11be3e5d44826f",
+  "clip_id": 188,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 8.3,
+    "emotion_score": 9.2,
+    "rationale": "The hook is moderately strong due to the emotional tension between Catherine and Alexander, but it's not immediately clear what the context is. The cliffhanger is very strong as Catherine's realization is left unresolved, creating a powerful sense of anticipation. The dialogue and camera work are clear, but the emotional impact is high due to the intense confrontation and Catherine's emotional breakdown.",
+    "hook_evidence": "\"You don't remember?\" - Catherine, 44.2s",
+    "cliffhanger_evidence": "\"Her?!\" - Catherine, 70.1s",
+    "needs_video_review": false,
+    "overall_score": 7.91
+  }
+}

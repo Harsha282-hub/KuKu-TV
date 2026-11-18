@@ -1,0 +1,17 @@
+{
+  "signature": "88204a9da26b2e46de6d7e8875e95ff1de6c3a0c1932e94f398e0a6274bf74a6",
+  "clip_id": 133,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The hook is moderately strong, with immediate conflict and tension between Catherine and Juliana. However, the setup is slow, and the dialogue is not immediately impactful. The cliffhanger is very strong, ending with Catherine's enraged reaction, leaving the audience wanting to know what happens next. The clarity is high, as the events are clear and the dialogue is understandable. The emotion is high due to the intense confrontation and Juliana's emotional liberation.",
+    "hook_evidence": "\"You think a few herbs make you better than me?\"",
+    "cliffhanger_evidence": "Extreme close-up of Catherine's face contorting in sheer fury.",
+    "needs_video_review": false,
+    "overall_score": 8.115
+  }
+}

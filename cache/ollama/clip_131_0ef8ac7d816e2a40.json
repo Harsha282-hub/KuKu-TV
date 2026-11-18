@@ -1,0 +1,17 @@
+{
+  "signature": "0ef8ac7d816e2a401f6572ed11b2741cf870873bdfbf0ac15724796cfa426192",
+  "clip_id": 131,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.3,
+    "rationale": "The scene opens with a close-up of Catherine's sneer, setting a tense and confrontational tone. The dialogue between Catherine and Juliana is clear and emotionally charged, but the initial three seconds are slow to establish the conflict. The final seven seconds leave the audience with a cliffhanger as Catherine's outburst is cut off, hinting at a violent confrontation. The scene is emotionally impactful due to the stark contrast between Juliana's calm and Catherine's fury.",
+    "hook_evidence": "\"Your soldier?\"",
+    "cliffhanger_evidence": "\"Why?!\"",
+    "needs_video_review": false,
+    "overall_score": 7.77
+  }
+}

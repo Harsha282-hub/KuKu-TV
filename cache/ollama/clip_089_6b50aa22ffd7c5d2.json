@@ -1,0 +1,17 @@
+{
+  "signature": "6b50aa22ffd7c5d210a1b83f9dc3f3545b46d058d6e1443c850e88e327efeba8",
+  "clip_id": 89,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, as it introduces a serious and urgent situation with the Duchess's poisoning, but the setup is slow and the first three seconds are mostly camera work. The cliffhanger is high due to the dramatic and unresolved scene of Lady Juliana rushing to save the Duchess, leaving the outcome uncertain. Clarity is high as the dialogue and actions are clear and the context is understandable. The emotional impact is strong, with the characters' fear and desperation clearly conveyed.",
+    "hook_evidence": "\"Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting.\"",
+    "cliffhanger_evidence": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles.",
+    "needs_video_review": false,
+    "overall_score": 8.15
+  }
+}

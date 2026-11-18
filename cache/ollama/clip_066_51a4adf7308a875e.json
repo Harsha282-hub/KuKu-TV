@@ -1,0 +1,17 @@
+{
+  "signature": "51a4adf7308a875edf8b2e6d98335aa8e6fd33fed778ce8d368d6c3654fb9c04",
+  "clip_id": 66,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 5.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The scene starts with a medium close-up of Alexander, which is a strong visual hook, but the dialogue is slow to establish the context. The cliffhanger ends with a tender moment that leaves the audience wanting more, but the scene resolves with a kiss, which slightly lowers the cliffhanger score. The dialogue and actions are clear and emotionally charged, making the scene easy to follow and impactful.",
+    "hook_evidence": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist.",
+    "cliffhanger_evidence": "Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard. \"So is yours.\"",
+    "needs_video_review": false,
+    "overall_score": 7.5
+  }
+}

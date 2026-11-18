@@ -1,0 +1,17 @@
+{
+  "signature": "e5d8c6a100c4dd2644d4f81e853b31ec6c779d68c2fdaae38717812d8bdf6d62",
+  "clip_id": 63,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.3,
+    "emotion_score": 8.9,
+    "rationale": "The scene starts with a tender moment between two characters, but the setup is slow and lacks immediate tension or intrigue. The final line 'Not yet.' creates a slight cliffhanger, but the dialogue is clear and emotionally rich.",
+    "hook_evidence": "\"Your heart is racing.\"",
+    "cliffhanger_evidence": "\"Not yet.\"",
+    "needs_video_review": false,
+    "overall_score": 7.83
+  }
+}

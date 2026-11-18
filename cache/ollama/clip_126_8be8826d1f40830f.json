@@ -1,0 +1,17 @@
+{
+  "signature": "8be8826d1f40830f893935cd515b2b37d34979585283c70fa6b64ac41e200fd1",
+  "clip_id": 126,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The hook is strong with Catherine's initial dialogue and the tension between her and Juliana, but the setup is slow. The cliffhanger is excellent, ending with Catherine's sadistic triumph and Juliana's despair, leaving the audience wanting more. The dialogue and actions are clear and emotionally charged, though the initial camera work is not as impactful.",
+    "hook_evidence": "\"[scoffs] Peasants? People?\"",
+    "cliffhanger_evidence": "\"There. Finally. Something still hurts you.\"",
+    "needs_video_review": false,
+    "overall_score": 8.465
+  }
+}

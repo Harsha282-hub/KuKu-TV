@@ -1,0 +1,17 @@
+{
+  "signature": "3a39416909cb56769131e20eb581ede9d320333269d5b65078567ea6ce1b6d45",
+  "clip_id": 5,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The opening scene sets a dramatic tone with the church doors and Juliana's entrance, but the initial three seconds are mostly camera work, which slightly lowers the hook score. The final seven seconds leave Juliana in a state of shock and confusion, creating a strong cliffhanger. The dialogue and actions are clear and emotionally charged, making the scene easy to understand and impactful.",
+    "hook_evidence": "Symmetrical framing on the heavy church doors as they slowly part, pushing in slightly as Juliana stands framed in the light, dressed in an elegant white silk gown.",
+    "cliffhanger_evidence": "Medium shot of the Matriarch gesturing dismissively toward the altar. \"Look for yourself.\"",
+    "needs_video_review": false,
+    "overall_score": 8.465
+  }
+}

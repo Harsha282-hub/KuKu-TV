@@ -1,0 +1,17 @@
+{
+  "signature": "6390689f1d191af14f79e6137a80b0bb766f3b172652408e283e3f2f6a119454",
+  "clip_id": 42,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 8.0,
+    "emotion_score": 9.2,
+    "rationale": "The hook is strong with the intense tension and visual of Alexander's smoldering eyes, but the initial three seconds are too slow to engage fully. The cliffhanger is excellent, as the Constable's actions in Alexander's coat create suspense. Clarity is good, though some context might be needed for full understanding. The emotional impact is high, with the conflict between Alexander and Gerald, and the fear of Juliana.",
+    "hook_evidence": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint.",
+    "cliffhanger_evidence": "The Constable grabs the coat by the collar and begins rummaging through its deep pockets.",
+    "needs_video_review": false,
+    "overall_score": 8.185
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "3bdb880f72324aa5dfaa4594ef111b6598dcea0f6875f2317886e179a7af5f41",
+  "clip_id": 202,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, as it introduces a tense confrontation between Juliana and Catherine, but the initial scene setup is slow. The cliffhanger is high due to Catherine's emotional reaction and the unresolved tension. Clarity is high as the events are well described and understandable. The emotional impact is strong, especially in the final moments.",
+    "hook_evidence": "\"Stop.\" (Alexander) and Juliana's calm demeanor as she faces Catherine.",
+    "cliffhanger_evidence": "Catherine's trembling lips and humiliated tears, with the dialogue 'You humiliate me.'",
+    "needs_video_review": false,
+    "overall_score": 8.12
+  }
+}

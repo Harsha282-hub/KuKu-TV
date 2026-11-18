@@ -1,0 +1,17 @@
+{
+  "signature": "ad58783e7ee21dfa4a4e35f5c3423a5bad73159e2d8c4106a3b86f701a2f09a5",
+  "clip_id": 198,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.2,
+    "rationale": "The hook is somewhat weak as the first three seconds are mostly camera work, and the dialogue starts with a line that doesn't immediately grab attention. The cliffhanger is strong as the High Priest's final statement leaves a sense of impending action or conflict. Clarity is high as the dialogue and actions are clear and understandable. The emotion is very high due to the tension and conflict between the characters.",
+    "hook_evidence": "\"A church called me unworthy.\"",
+    "cliffhanger_evidence": "\"And I have the power to undo in one hearing what took you three years to steal!\"",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

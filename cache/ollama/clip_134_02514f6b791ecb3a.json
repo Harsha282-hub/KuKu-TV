@@ -1,0 +1,17 @@
+{
+  "signature": "02514f6b791ecb3a5db0c8920420f61faf983f10e811b5bc751a202100d7139a",
+  "clip_id": 134,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, as it introduces a significant emotional moment with Juliana's declaration of love. However, the setup is slow, and the first three seconds are mostly camera work, which lowers the hook score. The cliffhanger is very strong, ending with Juliana's powerful statement that leaves the audience with a strong emotional impact and unresolved tension. The clarity of the events is high, as the dialogue and camera work are clear and the context is understandable. The emotional impact is high due to the intense and emotional dialogue and the visual imagery.",
+    "hook_evidence": "\"He wanted a woman who looked beautiful beside his wealth.\"",
+    "cliffhanger_evidence": "\"Because that nobody showed me more love than your entire world ever did.\"",
+    "needs_video_review": false,
+    "overall_score": 8.12
+  }
+}

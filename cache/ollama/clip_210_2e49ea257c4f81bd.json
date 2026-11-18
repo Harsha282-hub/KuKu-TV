@@ -1,0 +1,17 @@
+{
+  "signature": "2e49ea257c4f81bd8e7abf2d9230ec1e7ea7c2aba5d97d605de78f3e758933c4",
+  "clip_id": 210,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 8.9,
+    "rationale": "The scene starts with a tense interaction between Catherine and Father Thomas, setting a hook with their dialogue about secrets and symbolism. The final moments leave unresolved tension about their conversation's implications, raising the cliffhanger score. The dialogue and actions are clear and emotionally charged, but the initial three seconds are slow to establish the characters and context.",
+    "hook_evidence": "Catherine sets down the brass candleholder, the flame flickering across their faces. Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes.",
+    "cliffhanger_evidence": "You always did have a taste for symbolism.",
+    "needs_video_review": false,
+    "overall_score": 7.805
+  }
+}

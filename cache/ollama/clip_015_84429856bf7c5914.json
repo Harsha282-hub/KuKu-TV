@@ -1,0 +1,17 @@
+{
+  "signature": "84429856bf7c59141cfe0906943bf446dd33399fc40d923b0ab060cdd019cdb3",
+  "clip_id": 15,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is somewhat weak as the first three seconds show a static scene without immediate tension or action. The cliffhanger is strong, ending with a promise of future conflict or mystery. Clarity is high, as the events are well described and understandable. Emotion is high due to the intimate and emotional nature of the scene, especially Juliana's acceptance and the Mysterious Bearded Man's protective gesture.",
+    "hook_evidence": "Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew.",
+    "cliffhanger_evidence": "The Mysterious Bearded Man carefully slides the band onto Juliana's finger. 'You have my protection.' 'You have my respect.'",
+    "needs_video_review": false,
+    "overall_score": 7.85
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "276d46dde353e2c10fb2cfc217876e9ade9a0e740c409098bd0b1b997ccfb345",
+  "clip_id": 197,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The hook is moderately strong with the dramatic opening of a significant document, but the initial sound and visual are not immediately clear. The cliffhanger is high due to the unresolved tension of the High Priest's declaration and Alexander's final line. Clarity is good, though some context is needed. Emotional impact is strong, with the tension and protective gesture between Alexander and Juliana.",
+    "hook_evidence": "Crisp tear of wax and parchment string snapping open. 'None shall leave until every witness is accounted for.'",
+    "cliffhanger_evidence": "Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him. 'She married the man... not the title.'",
+    "needs_video_review": false,
+    "overall_score": 7.67
+  }
+}

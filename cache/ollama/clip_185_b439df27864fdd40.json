@@ -1,0 +1,17 @@
+{
+  "signature": "b439df27864fdd4034c8807e3c98b33d487ff8912dc82f53cf0ecb3dea201afd",
+  "clip_id": 185,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.2,
+    "rationale": "The scene opens with a wide shot of Rupert in fear, setting a tense atmosphere. However, the first three seconds are mostly camera work, which lowers the hook score. The final seven seconds leave a strong cliffhanger with Alexander's accusation, but the scene ends with a dialogue that provides resolution, slightly lowering the cliffhanger score. The dialogue and actions are clear and comprehensible, and the emotional impact is high due to the tension and fear portrayed.",
+    "hook_evidence": "Wide shot across the rubble of the cathedral floor showing Rupert crumbling in fear against the choir railing.",
+    "cliffhanger_evidence": "\"You took my title.\"",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "cebfa65dd699cf273e33ee7f3c1aff4b8fdf01e2e2203684532d3db8f28b6783",
+  "clip_id": 121,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 8.9,
+    "emotion_score": 9.3,
+    "rationale": "The dialogue and camera work in the first three seconds set up the sinister plot, but the slow start lowers the hook. The final seven seconds leave a strong cliffhanger with Rupert's action, but the dialogue is resolved. The scene is clear and emotionally impactful.",
+    "hook_evidence": "\"Precisely.\" and Catherine smiling with malicious satisfaction, fluttering her fan.",
+    "cliffhanger_evidence": "Rupert's decision to write the arrest warrant himself, hinting at a potential conflict or twist.",
+    "needs_video_review": false,
+    "overall_score": 8.04
+  }
+}

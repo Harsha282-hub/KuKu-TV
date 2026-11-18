@@ -1,0 +1,17 @@
+{
+  "signature": "0916cd96025cc09f204ad0e9aa6f0af2434cde7a3a14ba8bee4c3faddf4b471c",
+  "clip_id": 11,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.0,
+    "emotion_score": 8.7,
+    "rationale": "The hook is strong with immediate action and tension, but the first three seconds are slow to establish the conflict. The cliffhanger leaves unresolved tension but is somewhat resolved by the end. The events are clear and emotionally impactful, with a clear character arc for Juliana.",
+    "hook_evidence": "\"Guards! Remove her!\"",
+    "cliffhanger_evidence": "The Noble Matriarch shrieking in exasperation from the altar steps, with the Bearded Stranger still standing over the fallen guard, leaving the situation unresolved.",
+    "needs_video_review": false,
+    "overall_score": 7.785
+  }
+}

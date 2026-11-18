@@ -1,0 +1,17 @@
+{
+  "signature": "b61ccc06c432f8c2c3ef166da7de1dc6ac02a9aff8b5d506bd03e66b93c5fcf3",
+  "clip_id": 90,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The scene opens with a close-up of Lady Juliana's concerned face, immediately setting a tense and emotional tone. However, the first three seconds are mostly camera work, which slightly lowers the hook score. The final seven seconds leave the audience with a cliffhanger as Lady Juliana's reaction to her mother's written words is cut off, creating unresolved suspense. The dialogue and actions are clear and comprehensible, and the emotional impact is high due to the dramatic tension and the characters' reactions.",
+    "hook_evidence": "Close-up on Lady Juliana's concerned face as she withdraws her finger from the Duchess's mouth.",
+    "cliffhanger_evidence": "Juliana draws in a sharp, startled breath, her eyes widening in horror. 'Mother.' Close-up of Juliana looking up from the page, stunned by her mother's written words.",
+    "needs_video_review": false,
+    "overall_score": 7.67
+  }
+}

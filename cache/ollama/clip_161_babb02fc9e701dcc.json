@@ -1,0 +1,17 @@
+{
+  "signature": "babb02fc9e701dcc18362687823f182d51b8a0ef76ffc54235df8aae0d25d684",
+  "clip_id": 161,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is somewhat weak as the first three seconds are mostly setup with Clarissa handing a letter to the nobleman. The cliffhanger is strong, ending with Juliana's defiant refusal of the offered food, leaving the audience uncertain of her fate. The clarity is high as the dialogue and actions are clear and the context is understandable. The emotional impact is high due to the tension and the character's defiance.",
+    "hook_evidence": "Clarissa handing the letter to the nobleman, with his reaction of shock and then a grin, setting up the intrigue of the letter's content.",
+    "cliffhanger_evidence": "Juliana's refusal of the offered food, with her trembling hand and the implication of her potential suffering, leaving the audience with a sense of impending danger and uncertainty.",
+    "needs_video_review": false,
+    "overall_score": 8.15
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "0a855d2b86c88bf3b0e4ff9a0a5f9e92ed87abe17ba208a359f6ab8d0762b41c",
+  "clip_id": 114,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.1,
+    "rationale": "The dialogue and camera work create immediate tension and emotional impact, but the setup is slow, and the cliffhanger is not fully resolved.",
+    "hook_evidence": "\"I knew I had seen those eyes before.\" The disgraced daughter... the girl thrown out of her own family home.",
+    "cliffhanger_evidence": "Catherine fanning open the illustrated botanical pages of the herbarium with gloved fingers. And this? This book of weeds will hang her before the magistrate.",
+    "needs_video_review": false,
+    "overall_score": 8.03
+  }
+}

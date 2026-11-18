@@ -1,0 +1,17 @@
+{
+  "signature": "b2262fbb03c00d01f8befbc1ce0e5d7c7df1ef7e92c43341d5d027e5733dac2e",
+  "clip_id": 173,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The scene opens with a character action that hints at a significant event, but the dialogue is slow to provide context. The final dialogue leaves the audience with a sense of foreboding and unresolved tension, but the emotional impact is strong due to the characters' cold and ruthless expressions.",
+    "hook_evidence": "Lady Harrington taking a step onto the pavement with a reticule, setting the scene for a significant event.",
+    "cliffhanger_evidence": "Lord Harrington's final statement about the place being unlucky for Juliana, leaving the audience unsure of the consequences.",
+    "needs_video_review": false,
+    "overall_score": 7.67
+  }
+}

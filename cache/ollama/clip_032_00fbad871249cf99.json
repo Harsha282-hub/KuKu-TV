@@ -1,0 +1,17 @@
+{
+  "signature": "00fbad871249cf9925654692088ccbdc710f4e4a6505c8289325cab58490fb3a",
+  "clip_id": 32,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 5.5,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 8.7,
+    "emotion_score": 7.3,
+    "rationale": "The scene sets up a tense confrontation between Juliana and the Aristocratic Woman, but leaves the audience wanting more. The dialogue and visual elements are clear, but the initial action is slow, and the ending is unresolved.",
+    "hook_evidence": "The scene starts with a detailed description of Juliana's work, which is interesting but not immediately engaging.",
+    "cliffhanger_evidence": "\"This is where you live now?\" - The dialogue leaves the audience unsure of the outcome of the interaction, creating suspense.",
+    "needs_video_review": false,
+    "overall_score": 6.87
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "a45b5b20928480df536280380116a7bdba806dc91db43978eac6c53538e9a9ae",
+  "clip_id": 167,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 9.5,
+    "rationale": "The opening sound effects and camera work create an immediate sense of tension and intrigue. The dialogue and emotional performance at the end leave the audience hanging, wanting to know the outcome. The scene is clear and emotionally impactful, with no need for prior context.",
+    "hook_evidence": "Echoing, heavy bootsteps approach down the corridor outside the cell.",
+    "cliffhanger_evidence": "JULIANA, \"...are you safe?\"",
+    "needs_video_review": false,
+    "overall_score": 8.765
+  }
+}

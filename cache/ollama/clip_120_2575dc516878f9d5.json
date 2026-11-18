@@ -1,0 +1,17 @@
+{
+  "signature": "2575dc516878f9d53a8f3eeab1027ab4e6a73afc6e3ba2f39eb9fb29b9d14e23",
+  "clip_id": 120,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 8.9,
+    "rationale": "The hook is somewhat weak as the first three seconds show a static scene with no dialogue or action. The cliffhanger is strong, leaving the audience with unresolved tension about the Dowager's fate. Clarity is high as the scene is well-paced and the dialogue is clear. The emotion is high due to the severity of the plan and the malicious satisfaction of the characters.",
+    "hook_evidence": "The scene starts with the Elder Nobleman leaning forward intently, but there's no immediate action or dialogue to grab attention.",
+    "cliffhanger_evidence": "Catherine's question about the Dowager's fate is left unanswered, creating suspense.",
+    "needs_video_review": false,
+    "overall_score": 8.1
+  }
+}

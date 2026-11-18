@@ -1,0 +1,17 @@
+{
+  "signature": "7b9e148d64b80caa3c6dcf209bc3a6d66591ccc38539e261bc7af399fcb932d2",
+  "clip_id": 72,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The scene opens with a character's name and immediately shows a powerful emotional moment, but the setup is slow. The ending leaves the audience with a tense question, which is effective. The dialogue and actions are clear, and the emotional impact is high.",
+    "hook_evidence": "\"Alexander...\" Alexander draws her firmly into his arms, wrapping both burly arms around her as she buries her face into his shoulder, weeping uncontrollably.",
+    "cliffhanger_evidence": "\"What are you going to do?\"",
+    "needs_video_review": false,
+    "overall_score": 8.375
+  }
+}

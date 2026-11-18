@@ -1,0 +1,17 @@
+{
+  "signature": "513b6de3b7dfb8a26fca2a0ba3a1b70a1b386bc26467ba979cc5164993d1091e",
+  "clip_id": 23,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.7,
+    "emotion_score": 9.1,
+    "rationale": "The scene opens with a tense confrontation between Juliana and Lady Ashcroft, setting a high hook with their emotional conflict. The cliffhanger leaves Juliana in distress, unresolved. The dialogue and actions are clear, and the emotional impact is strong, with Juliana's tears and the destruction of the ledger.",
+    "hook_evidence": "\"No, Father. You chose that long before today.\"",
+    "cliffhanger_evidence": "Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.",
+    "needs_video_review": false,
+    "overall_score": 7.98
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "963f6d325b6c7beecbe8db1bea695351bebe6b90da3100746c6fd5c8f2bc3e92",
+  "clip_id": 64,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is somewhat weak as the first three seconds only show a character walking, which doesn't immediately engage the viewer. The cliffhanger is strong, leaving Juliana's fear unresolved. Clarity is high as the scene is clear and the context is understandable. The emotion is high due to the intimate and emotional dialogue and physical interaction between the characters.",
+    "hook_evidence": "The first three seconds only show a character walking, which doesn't immediately engage the viewer.",
+    "cliffhanger_evidence": "\"Of losing you.\" - Juliana's statement leaves the viewer wondering about the full context and implications of her fear.",
+    "needs_video_review": false,
+    "overall_score": 7.85
+  }
+}

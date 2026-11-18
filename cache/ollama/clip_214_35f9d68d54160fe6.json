@@ -1,0 +1,17 @@
+{
+  "signature": "35f9d68d54160fe634fc8a64c6ed2258670a118159a5002fc1d312f71903efa1",
+  "clip_id": 214,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The dialogue and camera work in the first three seconds set up a tense negotiation between Catherine and Father Thomas, highlighting their power dynamic. The final seven seconds leave the audience with unresolved tension and a hint of a deeper, more intimate relationship, which is emotionally charged.",
+    "hook_evidence": "\"Name your price.\" - This line immediately establishes the stakes and the power dynamic between the characters.",
+    "cliffhanger_evidence": "\"In another room no one uses?\" - This line leaves the audience wondering about the nature of their relationship and the implications of their actions.",
+    "needs_video_review": false,
+    "overall_score": 8.375
+  }
+}

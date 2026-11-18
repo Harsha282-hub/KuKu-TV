@@ -1,0 +1,744 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KuKu TV | AI Clip Evaluator</title>
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0d111c;
+    color: white;
+}
+
+header {
+    background: #191f30;
+    padding: 30px;
+    text-align: center;
+}
+
+header h1 {
+    color: #ffcc00;
+    font-size: 36px;
+    margin: 0;
+}
+
+header p {
+    color: #b8c2d8;
+}
+
+main {
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+.card {
+    background: #1b2335;
+    padding: 30px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+
+.upload-box {
+    border: 2px dashed #ffcc00;
+    padding: 35px;
+    text-align: center;
+    border-radius: 12px;
+}
+
+input[type="file"] {
+    margin: 20px 0;
+    max-width: 100%;
+}
+
+button {
+    background: #ffcc00;
+    color: #111;
+    border: none;
+    padding: 13px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px;
+}
+
+button:hover {
+    background: #ffe066;
+}
+
+button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+#status {
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+.success {
+    color: #4ade80;
+}
+
+.error {
+    color: #ff7777;
+}
+
+.stats {
+    display: grid;
+    grid-template-columns: repeat(
+        auto-fit, minmax(180px, 1fr)
+    );
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+.stat {
+    background: #111827;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.stat h2 {
+    color: #ffcc00;
+    font-size: 30px;
+    margin: 10px 0;
+}
+
+.stat p {
+    color: #b8c2d8;
+}
+
+.video {
+    background: #111827;
+    padding: 12px;
+    margin-top: 10px;
+    border-radius: 8px;
+    overflow-wrap: anywhere;
+}
+
+.table-container {
+    overflow-x: auto;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 850px;
+}
+
+th {
+    background: #111827;
+    color: #ffcc00;
+    padding: 14px;
+    text-align: left;
+}
+
+td {
+    padding: 14px;
+    border-bottom: 1px solid #374151;
+}
+
+tr:hover {
+    background: #263149;
+}
+
+.rank {
+    color: #ffcc00;
+    font-weight: bold;
+}
+
+.score {
+    color: #4ade80;
+    font-weight: bold;
+}
+
+.details {
+    background: #111827;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+.details h3 {
+    color: #ffcc00;
+}
+
+.details p {
+    line-height: 1.6;
+    overflow-wrap: anywhere;
+}
+
+details {
+    margin-top: 12px;
+}
+
+summary {
+    color: #ffcc00;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+pre {
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    background: #0d111c;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.hidden {
+    display: none;
+}
+
+@media (max-width: 600px) {
+    main {
+        padding: 10px;
+    }
+
+    .card {
+        padding: 18px;
+    }
+
+    .upload-box {
+        padding: 20px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>KuKu TV</h1>
+    <p>AI-Powered Promo Clip Evaluation & Ranking</p>
+</header>
+
+<main>
+
+<!-- UPLOAD SECTION -->
+
+<div class="card">
+    <h2>Upload New Transcript Dataset</h2>
+
+    <div class="upload-box">
+        <h2>Upload ZIP File</h2>
+
+        <p>
+            Select a ZIP containing episode
+            transcript files (.txt)
+        </p>
+
+        <input
+            type="file"
+            id="zipFile"
+            accept=".zip"
+        >
+
+        <br>
+
+        <button
+            id="uploadButton"
+            onclick="uploadZip()">
+            Upload & Evaluate
+        </button>
+    </div>
+
+    <p id="status"></p>
+</div>
+
+
+<!-- UPLOADED TRANSCRIPTS -->
+
+<div class="card hidden" id="uploadedCard">
+
+    <h2>Uploaded Transcripts</h2>
+
+    <div class="stats">
+
+        <div class="stat">
+            <p>Total Transcripts</p>
+            <h2 id="totalTranscripts">0</h2>
+        </div>
+
+        <div class="stat">
+            <p>Episodes Processed</p>
+            <h2 id="episodesProcessed">0</h2>
+        </div>
+
+        <div class="stat">
+            <p>Candidate Clips</p>
+            <h2 id="candidatesEvaluated">0</h2>
+        </div>
+
+        <div class="stat">
+            <p>Top Ranked Clips</p>
+            <h2 id="topCount">0</h2>
+        </div>
+
+    </div>
+
+    <details>
+        <summary>View Uploaded Transcript Files</summary>
+        <div id="transcriptList"></div>
+    </details>
+
+</div>
+
+
+<!-- RANKINGS -->
+
+<div class="card hidden" id="rankingCard">
+
+    <h2>Top 20 Promo Clip Rankings</h2>
+
+    <p>
+        Scores are calculated using:
+        Hook (35%), Cliffhanger (30%),
+        Clarity (25%) and Emotion (10%).
+    </p>
+
+    <p>
+        These are offline heuristic scores,
+        not evaluations from a cloud AI model.
+    </p>
+
+    <button onclick="downloadCSV()">
+        Download Top 20 CSV
+    </button>
+
+    <div class="table-container">
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Episode</th>
+                    <th>Start</th>
+                    <th>End</th>
+                    <th>Hook</th>
+                    <th>Cliffhanger</th>
+                    <th>Clarity</th>
+                    <th>Emotion</th>
+                    <th>Overall</th>
+                </tr>
+            </thead>
+
+            <tbody id="rankingBody"></tbody>
+
+        </table>
+    </div>
+
+    <h2>Detailed Clip Evaluations</h2>
+
+    <div id="clipDetails"></div>
+
+</div>
+
+
+<!-- PREVIOUS RESULTS -->
+
+<div class="card">
+
+    <h2>Previous Evaluation Results</h2>
+
+    <button onclick="loadPreviousResults()">
+        View Previous Rankings
+    </button>
+
+    <div id="previousResults"></div>
+
+</div>
+
+</main>
+
+
+<script>
+
+let top20Results = [];
+
+function setText(id, value) {
+    document.getElementById(id).textContent = value;
+}
+
+function addCell(row, value, className = "") {
+    const cell = document.createElement("td");
+
+    cell.textContent = value ?? "-";
+
+    if (className) {
+        cell.className = className;
+    }
+
+    row.appendChild(cell);
+}
+
+function addParagraph(parent, label, value) {
+    const p = document.createElement("p");
+
+    const strong = document.createElement("strong");
+    strong.textContent = label + ": ";
+
+    p.appendChild(strong);
+    p.appendChild(
+        document.createTextNode(String(value ?? "-"))
+    );
+
+    parent.appendChild(p);
+}
+
+function formatTime(seconds) {
+    if (seconds === undefined || seconds === null) {
+        return "-";
+    }
+
+    const total = Number(seconds);
+
+    if (!Number.isFinite(total)) {
+        return String(seconds);
+    }
+
+    const minutes = Math.floor(total / 60);
+    const remaining = (total % 60).toFixed(2);
+
+    return `${minutes}:${remaining.padStart(5, "0")}`;
+}
+
+
+// UPLOAD ZIP
+
+async function uploadZip() {
+
+    const fileInput = document.getElementById("zipFile");
+    const file = fileInput.files[0];
+
+    const status = document.getElementById("status");
+    const button = document.getElementById("uploadButton");
+
+    if (!file) {
+        status.textContent = "Please select a ZIP file.";
+        status.className = "error";
+        return;
+    }
+
+    if (!file.name.toLowerCase().endsWith(".zip")) {
+        status.textContent = "Only ZIP files are allowed.";
+        status.className = "error";
+        return;
+    }
+
+    const formData = new FormData();
+    formData.append("file", file);
+
+    button.disabled = true;
+    button.textContent = "Processing...";
+
+    status.textContent =
+        "Uploading transcripts and evaluating clips. Please wait...";
+    status.className = "";
+
+    document.getElementById("uploadedCard")
+        .classList.add("hidden");
+
+    document.getElementById("rankingCard")
+        .classList.add("hidden");
+
+    try {
+
+        const response = await fetch("/api/upload", {
+            method: "POST",
+            body: formData
+        });
+
+        const data = await response.json();
+
+        if (!response.ok) {
+            throw new Error(
+                data.error || "Upload or evaluation failed"
+            );
+        }
+
+        status.textContent =
+            data.message || "Evaluation completed successfully!";
+        status.className = "success";
+
+        showUploadedTranscripts(data);
+
+        top20Results = Array.isArray(data.top20)
+            ? data.top20
+            : [];
+
+        showRankings(top20Results);
+
+    } catch (error) {
+
+        status.textContent = error.message;
+        status.className = "error";
+
+    } finally {
+
+        button.disabled = false;
+        button.textContent = "Upload & Evaluate";
+
+    }
+}
+
+
+// SHOW UPLOADED TRANSCRIPTS
+
+function showUploadedTranscripts(data) {
+
+    document.getElementById("uploadedCard")
+        .classList.remove("hidden");
+
+    const transcripts = Array.isArray(data.transcripts)
+        ? data.transcripts
+        : [];
+
+    setText(
+        "totalTranscripts",
+        data.total_transcripts ?? transcripts.length
+    );
+
+    setText(
+        "episodesProcessed",
+        data.episodes_processed ?? 0
+    );
+
+    setText(
+        "candidatesEvaluated",
+        data.candidates_evaluated ?? 0
+    );
+
+    setText(
+        "topCount",
+        Array.isArray(data.top20) ? data.top20.length : 0
+    );
+
+    const list = document.getElementById("transcriptList");
+
+    list.replaceChildren();
+
+    transcripts.forEach((transcript, index) => {
+
+        const div = document.createElement("div");
+        div.className = "video";
+
+        div.textContent =
+            `${index + 1}. ${transcript.original_name}`;
+
+        list.appendChild(div);
+
+    });
+
+}
+
+
+// DISPLAY RANKINGS
+
+function showRankings(results) {
+
+    const rankingCard = document.getElementById("rankingCard");
+
+    rankingCard.classList.remove("hidden");
+
+    const tbody = document.getElementById("rankingBody");
+    const detailsContainer =
+        document.getElementById("clipDetails");
+
+    tbody.replaceChildren();
+    detailsContainer.replaceChildren();
+
+    if (results.length === 0) {
+        const p = document.createElement("p");
+        p.textContent = "No ranked clips available.";
+        detailsContainer.appendChild(p);
+        return;
+    }
+
+    results.forEach((clip, index) => {
+
+        const row = document.createElement("tr");
+
+        addCell(row, clip.rank ?? index + 1, "rank");
+        addCell(row, clip.episode);
+        addCell(row, formatTime(clip.start));
+        addCell(row, formatTime(clip.end));
+        addCell(row, clip.hook_score);
+        addCell(row, clip.cliffhanger_score);
+        addCell(row, clip.clarity_score);
+        addCell(row, clip.emotion_score);
+        addCell(row, clip.overall_score, "score");
+
+        tbody.appendChild(row);
+
+
+        // Detailed evaluation
+
+        const details = document.createElement("details");
+        details.className = "details";
+
+        const summary = document.createElement("summary");
+
+        summary.textContent =
+            `Rank #${clip.rank ?? index + 1} — ` +
+            `Episode ${clip.episode} — ` +
+            `Score ${clip.overall_score ?? "-"}`;
+
+        details.appendChild(summary);
+
+        addParagraph(
+            details,
+            "Start Time",
+            formatTime(clip.start)
+        );
+
+        addParagraph(
+            details,
+            "End Time",
+            formatTime(clip.end)
+        );
+
+        addParagraph(
+            details,
+            "Duration",
+            `${clip.duration ?? "-"} seconds`
+        );
+
+        addParagraph(
+            details,
+            "Opening Hook",
+            clip.hook
+        );
+
+        addParagraph(
+            details,
+            "Cliffhanger",
+            clip.cliffhanger
+        );
+
+        addParagraph(
+            details,
+            "Assessment",
+            clip.rationale
+        );
+
+        addParagraph(
+            details,
+            "Evaluation Type",
+            clip.assessment_type
+        );
+
+        detailsContainer.appendChild(details);
+
+    });
+
+}
+
+
+// DOWNLOAD CSV
+
+function downloadCSV() {
+
+    if (top20Results.length === 0) {
+        alert("No ranking results available.");
+        return;
+    }
+
+    const columns = [
+        "rank",
+        "clip_id",
+        "episode",
+        "start",
+        "end",
+        "duration",
+        "hook_score",
+        "cliffhanger_score",
+        "clarity_score",
+        "emotion_score",
+        "overall_score",
+        "hook",
+        "cliffhanger",
+        "rationale",
+        "assessment_type"
+    ];
+
+    function escapeCSV(value) {
+        const text = String(value ?? "");
+
+        return '"' + text.replace(/"/g, '""') + '"';
+    }
+
+    const rows = [
+        columns.join(","),
+        ...top20Results.map(clip =>
+            columns.map(key => escapeCSV(clip[key])).join(",")
+        )
+    ];
+
+    const blob = new Blob(
+        ["\uFEFF" + rows.join("\r\n")],
+        { type: "text/csv;charset=utf-8;" }
+    );
+
+    const url = URL.createObjectURL(blob);
+
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = "kukutv_top20.csv";
+
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+
+    URL.revokeObjectURL(url);
+
+}
+
+
+// PREVIOUS RESULTS
+
+async function loadPreviousResults() {
+
+    const container =
+        document.getElementById("previousResults");
+
+    container.textContent = "Loading previous results...";
+
+    try {
+
+        const response = await fetch("/api/results");
+        const data = await response.json();
+
+        if (!response.ok) {
+            throw new Error(
+                data.error || "Unable to load results"
+            );
+        }
+
+        const pre = document.createElement("pre");
+        pre.textContent = JSON.stringify(data, null, 2);
+
+        container.replaceChildren(pre);
+
+    } catch (error) {
+
+        container.textContent = error.message;
+
+    }
+}
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "signature": "0450faf043ad48edb78ed2aede2437b8400deaa713c2be01d5435adf3e656565",
+  "clip_id": 61,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The hook is strong with immediate tension and violence, but the first three seconds are slow to establish the context. The cliffhanger leaves the audience with a sense of unresolved tension, but the ending is somewhat resolved. The clarity is high as the events are well described and understandable. The emotion is high due to the intense and emotional dialogue between Alexander and Juliana.",
+    "hook_evidence": "\"Who sent you?\" - Alexander, setting up a tense confrontation.",
+    "cliffhanger_evidence": "Juliana reaches out toward his injured hand with delicate concern, but Alexander denies being hurt.",
+    "needs_video_review": false,
+    "overall_score": 8.515
+  }
+}

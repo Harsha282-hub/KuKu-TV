@@ -1,0 +1,17 @@
+{
+  "signature": "327e9516af622ff16c5cfc138d7bbe08df269e140bc0dd6db6f1c443421d7878",
+  "clip_id": 178,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 9.7,
+    "cliffhanger_score": 9.3,
+    "clarity_score": 8.9,
+    "emotion_score": 9.5,
+    "rationale": "The opening dialogue and camera shot immediately set a tense atmosphere, while the explosion and ensuing chaos create a high-stakes, emotionally charged scene. The final close-up on Juliana's face, showing a range of emotions, leaves the audience eager to see what happens next.",
+    "hook_evidence": "\"Nothing.\" Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine.",
+    "cliffhanger_evidence": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger.",
+    "needs_video_review": false,
+    "overall_score": 9.36
+  }
+}

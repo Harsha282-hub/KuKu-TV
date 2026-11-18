@@ -1,0 +1,17 @@
+{
+  "signature": "7665fd5799b7900988432b83e0bff510244bbc157af1ad5b840761c2ead16571",
+  "clip_id": 111,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 8.0,
+    "emotion_score": 9.2,
+    "rationale": "The scene opens with a dramatic action of the Duchess collapsing, immediately drawing attention. However, the setup is slow, with Juliana's plea for help coming only after the Duchess's collapse, which slightly lowers the hook score. The final seven seconds, where Catherine ruthlessly takes the locket and questions Juliana, leaves a strong cliffhanger. The dialogue and actions are clear, but the context might be lost on viewers without prior knowledge, slightly lowering clarity. The emotional impact is high due to the tension and conflict between Catherine and Juliana.",
+    "hook_evidence": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest.",
+    "cliffhanger_evidence": "Catherine ruthlessly yanks the silver locket off Juliana's neck. 'Where did a gutter rat like you find a silver locket?'",
+    "needs_video_review": false,
+    "overall_score": 8.185
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "3c9007c2543cbb76ce5a772aced1ef59a58e003560c49dca20a76be01d98252a",
+  "clip_id": 211,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The scene opens with a medium shot of Father Thomas, hinting at a tense interaction. The dialogue between Catherine and Father Thomas is clear and relevant, but the setup is slow, reducing the hook score. The scene ends with Father Thomas pondering Catherine's demands, leaving unresolved tension, which raises the cliffhanger score. The dialogue and actions are clear and emotionally charged, contributing to high clarity and emotion scores.",
+    "hook_evidence": "\"And you always did have a taste for using me. It's why we suit each other.\"",
+    "cliffhanger_evidence": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words.",
+    "needs_video_review": false,
+    "overall_score": 8.375
+  }
+}

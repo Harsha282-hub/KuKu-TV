@@ -1,0 +1,17 @@
+{
+  "signature": "28cb0d5febb63b561f24338e10b2d067e3a0cd99ef27648ec79f453f51419ba3",
+  "clip_id": 10,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.5,
+    "rationale": "The scene opens with a close-up of Juliana's face, immediately setting a tense and emotional tone. The dialogue and camera work in the first three seconds effectively convey her vulnerability and the severity of the situation. The final seven seconds leave Juliana struggling against the guards, with the scene unresolved, creating a strong cliffhanger. The dialogue and actions are clear and the emotional impact is high, with Juliana's desperation and the Noble Matriarch's authority clearly conveyed.",
+    "hook_evidence": "\"And what happens to me?\"",
+    "cliffhanger_evidence": "The guards tear her grip away from the pew. Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone.",
+    "needs_video_review": false,
+    "overall_score": 8.865
+  }
+}

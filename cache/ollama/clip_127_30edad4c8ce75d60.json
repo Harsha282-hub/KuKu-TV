@@ -1,0 +1,17 @@
+{
+  "signature": "30edad4c8ce75d60f89b2744461a15e3ade3fea1a6a9412ca6abcd81e2f74663",
+  "clip_id": 127,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The opening shot of Catherine's face with the branding iron creates an immediate sense of tension and malice. However, the setup is slow, which slightly lowers the hook score. The final scene with Juliana's steady gaze and breathing steadying creates unresolved tension, but the cliffhanger is not as strong as it could be since the scene ends on a clear moment. The dialogue and actions are clear and the emotional impact is high, with Catherine's cruelty and Juliana's defiance.",
+    "hook_evidence": "Tight close-up of Catherine's face, bathed in the orange flickering glow of the red-hot branding iron, smiling with pure malice.",
+    "cliffhanger_evidence": "Juliana stares up, her breathing steadying as she refuses to break under Catherine's barbs.",
+    "needs_video_review": false,
+    "overall_score": 8.515
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "d68a086f6ca844a14385295330c49a988d9094b2fd580c7865993b8a4e4627e2",
+  "clip_id": 165,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.3,
+    "emotion_score": 8.5,
+    "rationale": "The opening shot and dialogue establish a tense, aristocratic setting with clear characters and a high-stakes situation. The cliffhanger leaves the audience with a sense of impending danger and unresolved conflict.",
+    "hook_evidence": "The low-angle shot and the dialogue about the wedding and the transfer of Ashbridge hint at a significant event.",
+    "cliffhanger_evidence": "\"And no one will question what happened to the woman who tried to stop us.\"",
+    "needs_video_review": true,
+    "overall_score": 8.44
+  }
+}

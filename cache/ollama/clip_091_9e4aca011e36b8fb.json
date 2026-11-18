@@ -1,0 +1,17 @@
+{
+  "signature": "9e4aca011e36b8fb3555afd06392ed780725b986db10b1dbcee9aea55e954eba",
+  "clip_id": 91,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.0,
+    "clarity_score": 8.5,
+    "emotion_score": 9.0,
+    "rationale": "The scene opens with a tense, mysterious setting that hints at a serious situation, but the dialogue and actions are clear and emotionally charged. The ending leaves the audience with a sense of impending doom, but the scene is resolved in the final moments.",
+    "hook_evidence": "Wide shot through dark draped bed curtains into the shadowy bedchamber, showing Prudence keeping watch with a single candle while Lady Juliana sits beside the grand four-poster bed.",
+    "cliffhanger_evidence": "Close-up of Prudence holding the flickering candle, crying openly in distress. 'The physician said her heart is failing.'",
+    "needs_video_review": false,
+    "overall_score": 7.4
+  }
+}

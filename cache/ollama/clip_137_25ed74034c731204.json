@@ -1,0 +1,17 @@
+{
+  "signature": "25ed74034c7312040a2a174f24b8fb53dca15740b8bc2be374736e88c850ef8c",
+  "clip_id": 137,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 9.0,
+    "clarity_score": 9.5,
+    "emotion_score": 9.0,
+    "rationale": "The scene opens with a close-up of the maid in panic, immediately setting a tense atmosphere. The dialogue and camera work maintain high clarity and emotional impact, but the hook could be stronger as the maid's initial reaction is not fully shown in the first three seconds.",
+    "hook_evidence": "\"No!\"",
+    "cliffhanger_evidence": "The Lord whispers 'Like a circle?' in the maid's ear, leaving the scene unresolved and suspenseful.",
+    "needs_video_review": false,
+    "overall_score": 8.95
+  }
+}

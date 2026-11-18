@@ -1,0 +1,17 @@
+{
+  "signature": "f68c50f827668d1cdbae9e2a5e3f99ec1cd052eccf580d346917650362806dd2",
+  "clip_id": 74,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.2,
+    "rationale": "The hook is somewhat weak as the first three seconds show a character's anguish without immediate conflict or intrigue. The cliffhanger is strong, leaving Juliana in emotional distress with no resolution. Clarity is high as the events are well described and understandable. The emotional impact is high due to the characters' emotional states and the setting.",
+    "hook_evidence": "\"My mother is a prisoner in her own house.\"",
+    "cliffhanger_evidence": "Juliana breaking down in tears over her open book, struggling to breathe through her weeping.",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "e10e803292341fcb1ed411e0ae82346fe088d4ab72952b2e4c8f4763ae894701",
+  "clip_id": 69,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The opening sound of a violent crash and the immediate visual of Alexander bursting into the room create a strong hook. The scene ends with a cliffhanger as Alexander pulls Juliana away from the burning ledger, leaving the fate of the book unresolved. The dialogue and action are clear and the emotions are high, with the danger and urgency of the situation well conveyed.",
+    "hook_evidence": "A violent crash as the bedroom door is kicked open.",
+    "cliffhanger_evidence": "Alexander firmly grips her arm, pulling her back toward safety.",
+    "needs_video_review": false,
+    "overall_score": 8.82
+  }
+}

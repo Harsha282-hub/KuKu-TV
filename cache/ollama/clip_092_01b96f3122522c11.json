@@ -1,0 +1,17 @@
+{
+  "signature": "01b96f3122522c11d4d0abaf0959735fbf6b10b52833f94bed92a7c1c8d2c857",
+  "clip_id": 92,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 9.0,
+    "clarity_score": 8.5,
+    "emotion_score": 8.0,
+    "rationale": "The clip opens with a tense close-up of Lady Juliana's hardened expression, setting a dramatic tone. However, the first three seconds are mostly camera work, which slightly lowers the hook score. The cliffhanger is strong, with the sudden appearance of someone at the door, creating unresolved suspense. The dialogue and actions are clear, but the emotional impact is high due to the urgency and desperation of the situation.",
+    "hook_evidence": "Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust.",
+    "cliffhanger_evidence": "Close-up of the ornate brass door handle on the dark carved wooden door. 'Juliana... someone is coming.'",
+    "needs_video_review": false,
+    "overall_score": 8.25
+  }
+}

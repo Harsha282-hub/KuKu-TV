@@ -1,0 +1,17 @@
+{
+  "signature": "83e48423d6e9daf1e8fe6159a77ed9387b40aa1a96eeab330db7b79a56f69c73",
+  "clip_id": 4,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 8.3,
+    "emotion_score": 9.2,
+    "rationale": "The hook is moderately strong, as it introduces a tense confrontation between Juliana and the Matriarch, but the initial dialogue is slow and lacks immediate impact. The cliffhanger is high due to Juliana's clenched hand and the unresolved tension, which leaves the audience wanting to know what happens next. Clarity is good, though some context might be needed for full understanding. The emotional impact is very high, with Juliana's humiliation and the Matriarch's cold words creating a powerful scene.",
+    "hook_evidence": "\"Clarissa knows how to carry herself.\" She has beauty, connections, and a future worth protecting.",
+    "cliffhanger_evidence": "Juliana's hand clenches fiercely into the folds of her mother's silk bridal gown, knuckles whitening with suppressed fury.",
+    "needs_video_review": false,
+    "overall_score": 7.88
+  }
+}

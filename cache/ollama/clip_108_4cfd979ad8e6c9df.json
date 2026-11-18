@@ -1,0 +1,17 @@
+{
+  "signature": "4cfd979ad8e6c9df4053d7da5f73bf7965362f124d19004c81c765e7d113cfb8",
+  "clip_id": 108,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The hook is strong with the revelation of poison, but the initial three seconds are slow to establish the tension. The cliffhanger is effective with the guard's sudden action, leaving the audience uncertain of Juliana's fate. The clarity of the scene is high, as the dialogue and actions are clear and understandable. The emotional impact is significant, with the tension and betrayal evident.",
+    "hook_evidence": "\"It is an antidote.\"",
+    "cliffhanger_evidence": "Wide shot as the armed guard storms forward, seizing Juliana roughly by both arms.",
+    "needs_video_review": false,
+    "overall_score": 8.465
+  }
+}

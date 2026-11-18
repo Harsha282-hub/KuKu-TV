@@ -1,0 +1,17 @@
+{
+  "signature": "322953c19ddb29c1077c962a6c1ab0d353e22d523ce78a7eccd8d675b40faadb",
+  "clip_id": 105,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 8.9,
+    "rationale": "The scene opens with a close-up of the Dowager Duchess, setting a tense and dramatic tone. The dialogue reveals a significant plot twist, but the scene ends with a subtle, potentially revealing detail that leaves the audience curious.",
+    "hook_evidence": "\"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"",
+    "cliffhanger_evidence": "Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight.",
+    "needs_video_review": false,
+    "overall_score": 8.355
+  }
+}

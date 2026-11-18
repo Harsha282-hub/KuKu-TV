@@ -1,0 +1,17 @@
+{
+  "signature": "70e4e654bc13777b0412a51ab03c86f1a87dfd09c9a013686315887c596d4b0f",
+  "clip_id": 52,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, establishing a tense situation between Alexander and Juliana. However, the initial camera work is slow, which slightly lowers the score. The cliffhanger is high due to Juliana walking towards the briar thicket, leaving the audience uncertain of her fate. The dialogue and action are clear and emotionally charged, contributing to high clarity and emotion scores.",
+    "hook_evidence": "Wide shot looking down from the stone terrace. Gerald and Clarissa stand elevated on the balustrade, while Juliana, Alexander in handcuffs, and the Constable stand before the dense briar garden.",
+    "cliffhanger_evidence": "Juliana releases his hands and turns toward the briar thicket. Alexander stretches out his chained hands, attempting to hold her back, but the Constable restrains him.",
+    "needs_video_review": false,
+    "overall_score": 8.12
+  }
+}

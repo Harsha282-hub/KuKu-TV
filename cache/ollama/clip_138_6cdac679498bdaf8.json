@@ -1,0 +1,17 @@
+{
+  "signature": "6cdac679498bdaf8bf36cb53cf74971fff0050f2c63313b8daf9f2d3ff1a9c0c",
+  "clip_id": 138,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 8.0,
+    "emotion_score": 9.3,
+    "rationale": "The scene opens with tension and quickly escalates, making it engaging. However, the initial three seconds are slow to establish the conflict. The ending leaves the maid's fate unresolved, creating a strong cliffhanger. The dialogue and actions are clear, but the emotional intensity is high, making it impactful.",
+    "hook_evidence": "\"What do you want me to say?!\"",
+    "cliffhanger_evidence": "The Lord's final statement, leaving the maid's fate ambiguous.",
+    "needs_video_review": false,
+    "overall_score": 8.195
+  }
+}

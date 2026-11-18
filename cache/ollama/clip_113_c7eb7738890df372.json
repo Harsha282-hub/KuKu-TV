@@ -1,0 +1,17 @@
+{
+  "signature": "c7eb7738890df372cc71cb53ce1375ccf7a4e585954c1cb591b2db6667bda5bc",
+  "clip_id": 113,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 9.3,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The scene opens with a tight close-up of Catherine's hands, immediately setting a tense and violent tone. The dialogue and action in the first three seconds are clear and impactful, raising the stakes. The final seven seconds leave Juliana in a vulnerable position, with Catherine's triumphant grin and the revelation of her true identity creating a powerful emotional impact. The events are clear and understandable, and the emotional tension is high throughout.",
+    "hook_evidence": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck. Catherine ruthlessly yanks the silver locket off Juliana's neck. Juliana's cry of 'No!'",
+    "cliffhanger_evidence": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face. Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey. Catherine's dialogue about Juliana's true identity.",
+    "needs_video_review": false,
+    "overall_score": 8.975
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "d7e47490cb573da3a6ba8274b7da2357fb14535129346268ffc5288afdcf95c1",
+  "clip_id": 44,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The scene opens with a character's smug expression, setting a tense atmosphere. However, the first three seconds are not fully utilized, as the action description does not provide immediate context. The final seven seconds offer unresolved tension, but the dialogue is somewhat resolved. The scene is clear and emotionally charged, with characters expressing anger and accusation.",
+    "hook_evidence": "Gerald buttons his coat, smug self-satisfaction radiating from his expression.",
+    "cliffhanger_evidence": "JULIANA, \"Alexander would never steal from you.\"",
+    "needs_video_review": false,
+    "overall_score": 7.67
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "abc0a6f2abe1771506ee37b41433f5e824e47ec394bf3f93e0f53e4203ed5d01",
+  "clip_id": 112,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The hook is strong with immediate conflict and tension, but the setup is slow. The cliffhanger is somewhat resolved, but leaves the audience wanting more. The dialogue and actions are clear, and the emotional impact is high due to the Duchess's dramatic revelation and the tension between the characters.",
+    "hook_evidence": "\"...a secret medicine in her hand.\" She looks exactly like a poisoner.\"",
+    "cliffhanger_evidence": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest.",
+    "needs_video_review": false,
+    "overall_score": 7.72
+  }
+}

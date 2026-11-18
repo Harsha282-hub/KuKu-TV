@@ -1,0 +1,17 @@
+{
+  "signature": "d219af4d329018231fb6bcc621d1bde1900e750c2b89f6bc1b3842fe9de209ad",
+  "clip_id": 20,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.2,
+    "rationale": "The scene opens with a dialogue that immediately sets up tension between the characters, but the initial three seconds are slow to establish the context. The final seven seconds leave the audience with a powerful emotional moment, but the scene's conclusion is not fully resolved, leaving some ambiguity. The dialogue and camera work are clear and emotionally impactful.",
+    "hook_evidence": "\"You don't even know me.\"",
+    "cliffhanger_evidence": "Low-angle medium shot of Juliana bending slightly forward, shaken by his words.",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

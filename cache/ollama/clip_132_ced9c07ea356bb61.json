@@ -1,0 +1,17 @@
+{
+  "signature": "ced9c07ea356bb611f465e60cbf4f935a79354afa9763c31c418557896e51d62",
+  "clip_id": 132,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.7,
+    "cliffhanger_score": 7.3,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The hook is strong with Catherine's menacing dialogue and the visual of her holding the burning iron, setting up a tense confrontation. The cliffhanger, however, is somewhat resolved as Juliana's final line is clear and impactful, but leaves the immediate action unresolved. The clarity is high, with clear dialogue and visual cues. The emotion is high due to the intense and antagonistic nature of the interaction.",
+    "hook_evidence": "\"Fear.\" Close-up of Catherine leaning slightly forward over the burning book, eyes glittering with malice.",
+    "cliffhanger_evidence": "\"I know what I am.\"",
+    "needs_video_review": false,
+    "overall_score": 8.445
+  }
+}

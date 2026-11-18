@@ -1,0 +1,17 @@
+{
+  "signature": "f036d73085cd62a3d1e76b8a76d63503d71c26f5586ada00d0b02341a1705b01",
+  "clip_id": 13,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 8.9,
+    "rationale": "The hook is decent but not outstanding, as the initial scene focuses on the Lady in Gold Gown's smugness rather than immediately engaging the viewer. The cliffhanger is strong, leaving Juliana in disbelief and uncertainty about her future. Clarity is high, with the events understandable without prior context. The emotional impact is high due to the tension and betrayal depicted.",
+    "hook_evidence": "Medium shot on the Lady in Gold Gown, smiling smugly in her gold gown beside Gerald.",
+    "cliffhanger_evidence": "Close-up on Juliana blinking in disbelief. 'Leave where?'",
+    "needs_video_review": false,
+    "overall_score": 7.805
+  }
+}

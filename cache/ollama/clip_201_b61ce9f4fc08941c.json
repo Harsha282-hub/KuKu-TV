@@ -1,0 +1,17 @@
+{
+  "signature": "b61ce9f4fc08941cc6674729650fc335a935796f26bcfff8e729a301ce396c01",
+  "clip_id": 201,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The opening shot of Juliana's distressed face and her dialogue about her fears create an immediate emotional impact and hook. However, the scene ends with a tender moment that doesn't fully resolve the tension, leaving a slight cliffhanger. The dialogue and actions are clear and comprehensible, and the emotional impact is strong, with the characters' vulnerability and support for each other.",
+    "hook_evidence": "\"What if they strip your title? Because of me?\"",
+    "cliffhanger_evidence": "Alexander gently pulls Juliana closer, his hands resting securely on her shoulders.",
+    "needs_video_review": false,
+    "overall_score": 7.875
+  }
+}

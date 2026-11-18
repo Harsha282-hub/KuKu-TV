@@ -1,0 +1,17 @@
+{
+  "signature": "26379ffafb0846effee0f53f023e109d50264b3d1335290c8feff514d529ffec",
+  "clip_id": 17,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 8.5,
+    "rationale": "The hook is strong with the initial insult and the emotional reaction of Juliana, but the setup is slow. The cliffhanger is effective with the Mysterious Bearded Man's cryptic statement, leaving the audience wanting more context and resolution. The clarity is high as the scene is well-paced and the dialogue is clear. The emotional impact is significant, especially with Juliana's vulnerability and the tension between her and Clarissa.",
+    "hook_evidence": "\"How fitting.\" You have finally found a man as worthless as everyone thinks you are.",
+    "cliffhanger_evidence": "\"Because I know what I see.\"",
+    "needs_video_review": false,
+    "overall_score": 8.315
+  }
+}

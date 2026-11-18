@@ -1,0 +1,17 @@
+{
+  "signature": "5fdd025387fdef8c50213de6c4bde5eb586389dec29e317ad23a8bd77281f388",
+  "clip_id": 193,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 8.7,
+    "rationale": "The hook is somewhat weak as it starts with a character's exclamation without context. The cliffhanger is strong as it leaves the audience uncertain about the legal status of the marriage. Clarity is high due to clear dialogue and actions. Emotion is high due to the dramatic reveal and the tension between the characters.",
+    "hook_evidence": "\"Wife?!\"",
+    "cliffhanger_evidence": "Close-up on the High Priest unfolding the document, reading aloud to the congregation.",
+    "needs_video_review": false,
+    "overall_score": 7.785
+  }
+}

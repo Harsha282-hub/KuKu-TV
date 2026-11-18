@@ -1,0 +1,17 @@
+{
+  "signature": "d3a0b904b9515f1c97f2c1084f4233f3c37c1ad85f5c769ff62c94f06abb48bc",
+  "clip_id": 160,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 9.0,
+    "clarity_score": 9.5,
+    "emotion_score": 9.2,
+    "rationale": "The opening dialogue immediately establishes a tense and emotional situation, with Alexander's desperate search for his mother. The final scene leaves the audience unsure of the outcome, with Alexander's disbelief and the mother's guilt creating a powerful cliffhanger. The dialogue and camera work are clear and the emotional impact is strong, though the hook could be stronger with more immediate action or dialogue.",
+    "hook_evidence": "\"Mother... Juliana...\" and \"She went into Ashbourne Manor to save you. She never came back.\"",
+    "cliffhanger_evidence": "\"But she saved you!\" and the mother's revelation about the arrest, leaving the resolution ambiguous.",
+    "needs_video_review": false,
+    "overall_score": 8.97
+  }
+}

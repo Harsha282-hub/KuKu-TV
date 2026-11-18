@@ -1,0 +1,17 @@
+{
+  "signature": "eb247aea9e54eb27ad9496b762926ff527f2054b07a7b2d80135b25c08c42883",
+  "clip_id": 196,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, as it introduces a significant revelation about Juliana's marriage. However, the setup is slow and the first three seconds are mostly camera work, which lowers the score. The cliffhanger is very strong, as Juliana's final words leave the audience with a powerful emotional impact and unresolved tension. The clarity of the events is high, as the dialogue and actions are clear and understandable. The emotional impact is high due to the intense dialogue and Juliana's defiance.",
+    "hook_evidence": "The High Priest's revelation about the lack of a Crown license and the subsequent close-up of Juliana's tearful yet defiant expression.",
+    "cliffhanger_evidence": "\"A church chained me.\" - Juliana's final words, leaving the audience with a powerful emotional impact and unresolved tension.",
+    "needs_video_review": false,
+    "overall_score": 8.15
+  }
+}

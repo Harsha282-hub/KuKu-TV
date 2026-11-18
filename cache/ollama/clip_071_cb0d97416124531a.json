@@ -1,0 +1,17 @@
+{
+  "signature": "cb0d97416124531a14f86933578b6095b704afe0220fd7fc00ad28b4ef6c9216",
+  "clip_id": 71,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The hook is strong with immediate action and dialogue, but the setup is slow. The cliffhanger is effective with the fire and the dramatic entrance of Alexander, but the ending is resolved, slightly lowering the score. The clarity is high, and the emotion is intense due to the fire and the couple's reaction.",
+    "hook_evidence": "\"Alexander!\" Juliana bolts upright in bed, tossing off the woolen quilt as she sees the orange glow under the door.",
+    "cliffhanger_evidence": "Alexander bursts in, his dark hair flying, looking like an imposing guardian amid the smoke.",
+    "needs_video_review": false,
+    "overall_score": 8.515
+  }
+}

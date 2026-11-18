@@ -1,0 +1,17 @@
+{
+  "signature": "a021ec3d87683346e6f1ad9cd7832fad359ee308b10af56e57246d5600727a5f",
+  "clip_id": 199,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.1,
+    "emotion_score": 8.7,
+    "rationale": "The opening scene sets a tense and dramatic tone with Alexander and Juliana's resolute stance, hinting at a significant conflict. However, the first three seconds are action and camera shots without dialogue, slightly lowering the hook score. The cliffhanger is effective as it leaves the audience with the High Priest's accusation, but the resolution of the scene lowers the cliffhanger score. The clarity is high as the events are well described and comprehensible. The emotional impact is strong due to the tension and the High Priest's accusation.",
+    "hook_evidence": "Alexander holds Juliana's hand resolutely as Juliana gazes toward the church aisle where the intrusion unfolds.",
+    "cliffhanger_evidence": "\"You married this woman as a nameless beggar...\"",
+    "needs_video_review": false,
+    "overall_score": 7.74
+  }
+}

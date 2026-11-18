@@ -1,0 +1,17 @@
+{
+  "signature": "98f07abd27a1cd405ee252d2225b0b377fa64908062b75e981a075f7abaf90c1",
+  "clip_id": 200,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.2,
+    "rationale": "The scene opens with a dialogue that immediately sets up a tense situation, but the first three seconds are slow to establish the urgency. The final seven seconds leave a powerful emotional impact but are unresolved in terms of action.",
+    "hook_evidence": "\"You are my wife.\" Alexander gently pulls Juliana closer, his hands resting securely on her shoulders.",
+    "cliffhanger_evidence": "Close-up of Catherine collapsed on the wet stones, looking up with tear-streaked panic. \"Please, Alexander! Have mercy!\"",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

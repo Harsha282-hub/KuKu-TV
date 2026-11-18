@@ -1,0 +1,17 @@
+{
+  "signature": "3354cf189ac79bbfa1c4f289c0868ebb963e99951702950e17cab4b2ffde6cad",
+  "clip_id": 47,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.0,
+    "clarity_score": 9.0,
+    "emotion_score": 8.5,
+    "rationale": "The scene opens with a tense moment of Juliana shielding Alexander, setting a high hook. The final moments leave Alexander's emotional state unresolved, creating a strong cliffhanger. The dialogue and actions are clear and the emotional tension is palpable.",
+    "hook_evidence": "\"No! That watch was not in his coat!\"",
+    "cliffhanger_evidence": "Alexander's hand clenching into a tight, trembling fist against the glow of the roaring fireplace.",
+    "needs_video_review": false,
+    "overall_score": 8.125
+  }
+}

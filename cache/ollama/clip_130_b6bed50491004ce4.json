@@ -1,0 +1,17 @@
+{
+  "signature": "b6bed50491004ce4ec012ebaa6ae6bc41dec7482c5ffb7e73a3d5425bbc1d207",
+  "clip_id": 130,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.1,
+    "emotion_score": 9.5,
+    "rationale": "The scene opens with Catherine's explosive reaction, setting a tense and emotional hook. The final moments build suspense as Catherine raises the branding iron, leaving the outcome unresolved. The dialogue and actions are clear and the emotional impact is high, with Catherine's rage and Juliana's defiance driving the tension.",
+    "hook_evidence": "\"And what is wrong with that?!\"",
+    "cliffhanger_evidence": "Catherine hoists the searing branding rod over Juliana with frantic fury.",
+    "needs_video_review": false,
+    "overall_score": 8.39
+  }
+}

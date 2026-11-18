@@ -1,0 +1,17 @@
+{
+  "signature": "da71ff158f7de54acb5048b21138f826ab969cb60a9c5fc37474a67f3b2aff71",
+  "clip_id": 179,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.1,
+    "emotion_score": 8.9,
+    "rationale": "The scene opens with a close-up of Alexander's mother, setting a somber and emotional tone. The dialogue between Alexander and his mother is clear and emotionally charged, but the scene ends with a character who is not directly involved in the main conflict, which slightly lowers the cliffhanger score.",
+    "hook_evidence": "\"Mother.\" His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence.",
+    "cliffhanger_evidence": "Medium shot of Rupert cowering on the altar steps beside Catherine and her father, utterly defeated.",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

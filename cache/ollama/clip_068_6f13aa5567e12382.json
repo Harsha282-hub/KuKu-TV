@@ -1,0 +1,17 @@
+{
+  "signature": "6f13aa5567e123822d61796d38b7b1ec37e0b98397943d211a9688b64159bbaa",
+  "clip_id": 68,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The hook is strong with immediate action and tension, but the setup is slow. The cliffhanger is effective, leaving the characters in a tense situation. The clarity is high, and the emotional impact is significant due to the life-threatening situation and the characters' actions.",
+    "hook_evidence": "\"The ledger!\" Alexander firmly grips her arm, pulling her back toward safety.",
+    "cliffhanger_evidence": "Juliana looks toward the side wall and points frantically at the parlor window.",
+    "needs_video_review": false,
+    "overall_score": 8.375
+  }
+}

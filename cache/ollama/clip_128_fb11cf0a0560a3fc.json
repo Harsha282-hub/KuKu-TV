@@ -1,0 +1,17 @@
+{
+  "signature": "fb11cf0a0560a3fc97fbc19b4fddb291c74ba1de8fdc93461bd01f1efca34ce8",
+  "clip_id": 128,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 9.7,
+    "cliffhanger_score": 9.3,
+    "clarity_score": 9.8,
+    "emotion_score": 9.6,
+    "rationale": "The opening scene immediately establishes intense emotional distress through Juliana's tears and despair, setting a high hook. The final shot leaves viewers on a terrifying and suspenseful note, raising the cliffhanger score. The dialogue and actions are clear and the scene is emotionally impactful, though the abrupt cut prevents a perfect score.",
+    "hook_evidence": "\"[gasping] Give it back!\"",
+    "cliffhanger_evidence": "The extreme macro close-up of Juliana's wide, trembling eye with the hot poker reflecting in her pupil, just inches from her face, creates a terrifying and unresolved moment.",
+    "needs_video_review": false,
+    "overall_score": 9.595
+  }
+}

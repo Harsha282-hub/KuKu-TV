@@ -1,0 +1,17 @@
+{
+  "signature": "1b155cee22bbc2e2a407deaacad1ded128da49b8364d55964400728db263a437",
+  "clip_id": 191,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 9.1,
+    "rationale": "The dialogue and action in the first three seconds set up a tense confrontation, but the immediate hook is somewhat weak. The final seven seconds provide a powerful emotional climax, but the cliffhanger is resolved. The events are clear and emotionally impactful.",
+    "hook_evidence": "\"I loved you before I ever knew who you were.\" and \"And I loved you before I ever dared to tell you.\"",
+    "cliffhanger_evidence": "Alexander and Juliana advance side-by-side between the rows of shocked aristocratic guests, and Alexander takes Juliana's hand and walks her proudly down the center aisle.",
+    "needs_video_review": false,
+    "overall_score": 8.375
+  }
+}

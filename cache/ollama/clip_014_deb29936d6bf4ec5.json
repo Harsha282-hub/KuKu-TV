@@ -1,0 +1,17 @@
+{
+  "signature": "deb29936d6bf4ec543511cbb8fdb805759ce2d943a47ee7cd8bf4517104c813b",
+  "clip_id": 14,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 9.0,
+    "clarity_score": 9.5,
+    "emotion_score": 9.5,
+    "rationale": "The scene opens with a close-up on Juliana, setting a tense and emotional atmosphere. The dialogue and camera work in the first three seconds are clear and engaging. The ending is left on a powerful, unresolved moment with Juliana's reaction, creating a strong cliffhanger. The dialogue and actions are clear and emotionally charged, making the scene easy to follow and emotionally impactful.",
+    "hook_evidence": "\"I am offering it back.\" - The Bearded Stranger, as he presents the ring to Juliana, immediately setting up a significant moment.",
+    "cliffhanger_evidence": "Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds on the cliffhanger.",
+    "needs_video_review": false,
+    "overall_score": 9.0
+  }
+}

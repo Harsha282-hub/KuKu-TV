@@ -1,0 +1,17 @@
+{
+  "signature": "98ca9ef115ee8a84eef9e647b3ca0b13b32665920bf82e071dc0f8af1996e671",
+  "clip_id": 37,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 5.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 7.3,
+    "rationale": "The scene starts with a tender moment between Juliana and the peasant mother, which is intriguing but not immediately suspenseful. The final moments with the Blond Nobleman and The Former Groom introduce tension but leave the audience wanting more. The dialogue and actions are clear, but the emotional impact is moderate due to the serious nature of the topic.",
+    "hook_evidence": "Juliana places a comforting hand over the mother's hands. The mother gathers her sleeping son in her arms and steps back toward the rainy doorway.",
+    "cliffhanger_evidence": "Close-up of the Blond Nobleman composing his features into cold disdain, though tension trembles beneath his tone. \"Then let it remain a rumor.\"",
+    "needs_video_review": false,
+    "overall_score": 7.22
+  }
+}

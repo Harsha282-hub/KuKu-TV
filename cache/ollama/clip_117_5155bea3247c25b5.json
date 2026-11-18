@@ -1,0 +1,17 @@
+{
+  "signature": "5155bea3247c25b53a9ee2103f6ecf259ad44f43210d41090da85af2902cc889",
+  "clip_id": 117,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The scene opens with a dramatic and tense moment, but the first three seconds are mostly camera work, which slightly lowers the hook score. The final seven seconds leave the audience with Juliana's steely resolve, creating a strong cliffhanger. The dialogue and actions are clear and emotionally impactful, with no need for prior context.",
+    "hook_evidence": "Wide shot inside the pitch-dark cell as the heavy iron door swings open.",
+    "cliffhanger_evidence": "Front medium shot of Juliana slowly rising to her feet, crossing her arms firmly across her chest as her tears stop and her expression hardens into steely resolve.",
+    "needs_video_review": false,
+    "overall_score": 8.5
+  }
+}

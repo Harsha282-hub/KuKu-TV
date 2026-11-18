@@ -1,0 +1,17 @@
+{
+  "signature": "639ef4f06e108c8833ab776489bef10276ffa8d915d10bb79a7559e018381fec",
+  "clip_id": 140,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.5,
+    "rationale": "The scene opens with Lady Juliana's indignant outburst, setting a strong emotional tone. However, the initial three seconds are slow to establish the context. The cliffhanger leaves the audience wanting more, but the resolution is too abrupt, leaving some ambiguity. The dialogue and actions are clear, but the emotional impact is slightly diminished by the unresolved tension.",
+    "hook_evidence": "\"It was not a ritual!\"",
+    "cliffhanger_evidence": "\"Irrelevant.\"",
+    "needs_video_review": false,
+    "overall_score": 7.67
+  }
+}

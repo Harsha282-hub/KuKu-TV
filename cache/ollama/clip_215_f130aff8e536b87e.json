@@ -1,0 +1,17 @@
+{
+  "signature": "f130aff8e536b87e850652be304710db8660711e030e1dd5ba5829f799c72746",
+  "clip_id": 215,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.2,
+    "rationale": "The scene opens with a birds-eye view of Catherine and Father Thomas, setting a tense and intimate mood. The dialogue and camera work in the final moments build suspense and emotional intensity, but the scene ends with Catherine's disbelief, leaving a cliffhanger.",
+    "hook_evidence": "High overhead birds-eye shot looking straight down at the unkempt bed, where Catherine lies curled in a silk chemise against Father Thomas's bare chest.",
+    "cliffhanger_evidence": "Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief.",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

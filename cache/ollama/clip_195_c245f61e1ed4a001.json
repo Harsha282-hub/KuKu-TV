@@ -1,0 +1,17 @@
+{
+  "signature": "c245f61e1ed4a001d00306de5c1f16bfd5366f998e61daa679a7e272868efe49",
+  "clip_id": 195,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The hook is moderately strong with the High Priest's dramatic declaration, but the initial camera work is slow and doesn't immediately engage the viewer. The cliffhanger is effective as the guards lower their weapons, leaving the audience uncertain about the outcome. The clarity is high as the dialogue and context are clear, and the emotion is strong with the tension between Alexander and the High Priest.",
+    "hook_evidence": "The High Priest's dramatic declaration, 'And I have the power to undo in one hearing what took you three years to steal!'",
+    "cliffhanger_evidence": "The guards slowly lower their weapon points away from the Duke, leaving the audience uncertain about the outcome.",
+    "needs_video_review": false,
+    "overall_score": 7.67
+  }
+}

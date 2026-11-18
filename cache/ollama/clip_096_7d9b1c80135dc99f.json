@@ -1,0 +1,17 @@
+{
+  "signature": "7d9b1c80135dc99f5d2336288fe555627efa75acbd7093fd9b49101b9f8f21b2",
+  "clip_id": 96,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The dialogue and camera work in the first three seconds set up the tension between the characters, but the slow start lowers the hook. The final seven seconds leave the audience with unresolved tension, raising the cliffhanger score. The clarity of the scene is high, and the emotional impact is strong due to the intensity of the argument and the protective nature of the characters.",
+    "hook_evidence": "\"Yes.\" \"Alone?\" \"With Prudence.\"",
+    "cliffhanger_evidence": "\"This time.\"",
+    "needs_video_review": false,
+    "overall_score": 8.12
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "9c4da6cc6253bdfbb776a11194dc5bec58c420f14c42d4f0ddb792aba7db6f78",
+  "clip_id": 189,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.2,
+    "emotion_score": 8.3,
+    "rationale": "The opening establishes a tense confrontation with clear authority figures and a noble in distress, creating immediate interest. The ending leaves Catherine's decision unresolved, which is a strong cliffhanger. The dialogue and actions are clear, but the emotional impact is slightly lessened by the lack of Catherine's reaction to the arrest.",
+    "hook_evidence": "\"Lord Henry Sterling, you are under arrest by order of the Crown.\"",
+    "cliffhanger_evidence": "Close-up on Catherine beneath her bridal veil, looking downward in conflicted silence.",
+    "needs_video_review": false,
+    "overall_score": 8.145
+  }
+}

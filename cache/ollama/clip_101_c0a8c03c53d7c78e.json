@@ -1,0 +1,17 @@
+{
+  "signature": "c0a8c03c53d7c78e12ba121580b1d53699faa08f0bc160494127fa9939286b39",
+  "clip_id": 101,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.1,
+    "emotion_score": 8.9,
+    "rationale": "The hook is strong with the revelation of poison, but the initial three seconds are slow to establish the urgency. The cliffhanger is effective as it leaves Alexander processing the information, but the resolution of the scene lowers the score. Clarity is high, and the emotion is palpable with the tension and dread.",
+    "hook_evidence": "\"Poison.\"",
+    "cliffhanger_evidence": "Close-up of Alexander processing the sinister calculation behind the poisoning.",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

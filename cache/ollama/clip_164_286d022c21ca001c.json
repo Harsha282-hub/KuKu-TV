@@ -1,0 +1,17 @@
+{
+  "signature": "286d022c21ca001c2de01cdabfdef3c577b28ebecdf8ee84cea80edd05580141",
+  "clip_id": 164,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The dialogue and action in the first three seconds set up Clarissa's character and her resentment, but the slow reveal of her action with the wine is less impactful. The final seven seconds leave the audience with a powerful image of Clarissa's vindictive nature, which is highly emotional and unresolved.",
+    "hook_evidence": "\"She was always stubborn.\" - Nobleman, followed by Clarissa's hardened face and bitter resentment.",
+    "cliffhanger_evidence": "Clarissa takes a slow sip of the red wine, her eyes gleaming with dark relish.",
+    "needs_video_review": false,
+    "overall_score": 8.15
+  }
+}

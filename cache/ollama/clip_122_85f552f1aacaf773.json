@@ -1,0 +1,17 @@
+{
+  "signature": "85f552f1aacaf77326eb29bb1fc0317edfdf0e9dc14727fd6a6a37e845e06628",
+  "clip_id": 122,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 9.0,
+    "clarity_score": 8.5,
+    "emotion_score": 8.0,
+    "rationale": "The opening scene establishes tension and intrigue with the Elder Nobleman's authority and Rupert's nervousness. The dialogue reveals a critical situation, but the scene ends with a dramatic confrontation that leaves the audience wanting more.",
+    "hook_evidence": "The Elder Nobleman's stern, unhurried authority and Rupert's nervous anxiety create an immediate sense of tension.",
+    "cliffhanger_evidence": "The Elder Nobleman thrusts his walking stick against Rupert's chest, pinning him against the wall, leaving the audience unsure of the outcome.",
+    "needs_video_review": false,
+    "overall_score": 8.25
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "9ae7f2cad2ac91075464d0b2b7f46aaae970693c17067f1e481fb3f37051ffd6",
+  "clip_id": 175,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 5.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.2,
+    "rationale": "The scene opens with a medium tracking shot of Juliana, setting the stage for her presence. However, the first three seconds are too slow to grab immediate attention. The final seven seconds leave Juliana standing defiantly, with Catherine's last line 'Come.' creating a cliffhanger. The dialogue and action are clear and emotionally impactful, but the setup is not as strong.",
+    "hook_evidence": "Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar.",
+    "cliffhanger_evidence": "Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains. 'Come.'",
+    "needs_video_review": false,
+    "overall_score": 7.41
+  }
+}

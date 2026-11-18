@@ -1,0 +1,17 @@
+{
+  "signature": "f9d95940d32118a5a4ccdc41e61a4d73d5594b464b384bb7c63258d41e6b226f",
+  "clip_id": 115,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is moderately strong, as it introduces a tense confrontation between Catherine and Juliana, but the initial dialogue is slow to establish the conflict. The cliffhanger is high due to Juliana's final statement, which leaves the audience uncertain about the outcome. Clarity is high as the events are well-defined and understandable. The emotion is strong, with the characters' intense reactions and the dramatic dialogue.",
+    "hook_evidence": "\"Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand.\"",
+    "cliffhanger_evidence": "\"My husband will find me.\"",
+    "needs_video_review": false,
+    "overall_score": 8.12
+  }
+}

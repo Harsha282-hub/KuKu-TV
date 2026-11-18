@@ -1,0 +1,17 @@
+{
+  "signature": "171d23161edb84a5e2f8e5a4817522f8804125a8f8ae2c8019fee6d1d0b1cef9",
+  "clip_id": 163,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The hook is strong with Juliana's defiant actions, but the initial action is not immediately clear. The cliffhanger leaves the audience uncertain about the fate of Juliana, but the transition to Clarissa's dialogue is abrupt. The clarity is high as the events are well described, and the emotion is high due to Juliana's determination and Clarissa's bitterness.",
+    "hook_evidence": "\"They think hunger will make me surrender.\"",
+    "cliffhanger_evidence": "Clarissa rises from her armchair holding a cut crystal glass filled with dark red wine, pacing toward the fireplace.",
+    "needs_video_review": false,
+    "overall_score": 7.72
+  }
+}

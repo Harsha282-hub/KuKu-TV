@@ -1,0 +1,17 @@
+{
+  "signature": "8aca6648daa8cf5b6ce3ada22256406af92492af712ec11853852e5b77a673d5",
+  "clip_id": 93,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.7,
+    "emotion_score": 9.1,
+    "rationale": "The scene opens with a violent action that immediately grabs attention, setting a tense and emotional tone. The ending, while unresolved, leaves the audience with a sense of impending danger and conflict. The dialogue and actions are clear and understandable, and the emotional impact is high due to the physical and verbal abuse depicted.",
+    "hook_evidence": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso. Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.",
+    "cliffhanger_evidence": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face. 'Do you want the same punishment?'",
+    "needs_video_review": false,
+    "overall_score": 7.98
+  }
+}

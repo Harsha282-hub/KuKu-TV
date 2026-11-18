@@ -1,0 +1,17 @@
+{
+  "signature": "030202ec38ee19a928b111b092a9026f486e0886c8b6bdd524a8c39b71197d23",
+  "clip_id": 148,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 8.9,
+    "rationale": "The hook is somewhat weak as the first three seconds focus on camera work and the Lord's reaction, not immediately engaging the viewer. The cliffhanger is strong, ending with the Judge's raised hand and Lady Juliana's unbroken stance, leaving the audience in suspense. Clarity is high as the events are clear and the dialogue is direct. The emotion is high due to the tension and the dramatic moment of judgment.",
+    "hook_evidence": "Medium shot pushing into Lady Juliana's face as she speaks directly across the hall with compassionate, unwavering authority.",
+    "cliffhanger_evidence": "The Judge extends his raised hand high in judgment over Lady Juliana as the scene holds on her standing still and unbroken before fading to black.",
+    "needs_video_review": false,
+    "overall_score": 8.1
+  }
+}

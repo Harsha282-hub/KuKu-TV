@@ -1,0 +1,17 @@
+{
+  "signature": "a37edc9ab64a2e54dd8928eabbc519575dd233c1cb0a3b6349326288880d7e92",
+  "clip_id": 204,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.3,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 9.1,
+    "emotion_score": 8.9,
+    "rationale": "The hook is strong with the intense psychological battle and the threat of humiliation, but the initial camera work is slow. The cliffhanger is slightly weaker as the scene ends with a resolution, though the final shot of Catherine's submission is emotionally impactful.",
+    "hook_evidence": "\"You will scour the kitchen grease until midnight.\"",
+    "cliffhanger_evidence": "Catherine prostrates herself entirely upon the floor before Alexander, Juliana, and Lady Ashbourne, humbled to the stone as the scene cuts to black.",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

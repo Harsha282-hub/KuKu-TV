@@ -1,0 +1,17 @@
+{
+  "signature": "83b891c55067930e6f39855abb99bf995732d413f7dfc0a8d814a36c8dc93a98",
+  "clip_id": 106,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 8.3,
+    "emotion_score": 9.1,
+    "rationale": "The scene opens with a close-up of the Duchess taking a difficult remedy, setting a tense and dramatic tone. The dialogue reveals a dangerous situation, but the scene ends with a cliffhanger as the Duchess realizes she is being poisoned, leaving the audience wanting more. The interactions are clear and emotionally charged, with the characters' resolve and fear well portrayed.",
+    "hook_evidence": "The Duchess swallows the remedy with difficulty as Juliana carefully tilts the amber bottle. The camera focuses on the Duchess's face, showing her struggle and the gravity of the situation.",
+    "cliffhanger_evidence": "Dowager Duchess: 'Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?' Juliana: 'Yes. But the charcoal is fighting the poison. You are safe now.'",
+    "needs_video_review": false,
+    "overall_score": 7.87
+  }
+}

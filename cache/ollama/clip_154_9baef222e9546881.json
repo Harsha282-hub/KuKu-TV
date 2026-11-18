@@ -1,0 +1,17 @@
+{
+  "signature": "9baef222e9546881c72a051f4c96a383399f0675f542774e40c5e733499c07d3",
+  "clip_id": 154,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 9.0,
+    "clarity_score": 9.5,
+    "emotion_score": 9.5,
+    "rationale": "The scene opens with immediate tension and a critical question, setting a strong hook. The final moments leave the audience in suspense, with Alexander's denial at the end. The dialogue and camera work are clear and emotionally charged, making the scene easy to follow and highly impactful.",
+    "hook_evidence": "\"Then where is she?\"",
+    "cliffhanger_evidence": "\"No.\"",
+    "needs_video_review": false,
+    "overall_score": 9.0
+  }
+}

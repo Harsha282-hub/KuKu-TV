@@ -1,0 +1,17 @@
+{
+  "signature": "56bcdd02677bb749f9cecefe52d6c9199933cc4cd3a8902e2ddd2e286fe441fd",
+  "clip_id": 99,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 8.2,
+    "rationale": "The dialogue and camera work in the first three seconds set up the tension between Alexander and Juliana, but the slow start lowers the hook. The final seven seconds leave the audience hanging with Alexander's question, which is unresolved. The scene is clear and emotionally charged, but the slow setup in the first few seconds slightly reduces the hook score.",
+    "hook_evidence": "\"Where did you meet her?\" (39.2s) - The dialogue is delayed, and the camera work is not immediately engaging.",
+    "cliffhanger_evidence": "\"What did you find?\" (78.9s) - Alexander's question is left unanswered, creating a strong cliffhanger.",
+    "needs_video_review": false,
+    "overall_score": 8.03
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "signature": "ad8b65f4ea35c1be59588e411396851aa977ceab25460556d72ef58746f99d27",
+  "clip_id": 56,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.5,
+    "rationale": "The hook is moderately strong, as it immediately sets a tense and emotional scene with the discovery of a ring and the reunion of Juliana and Alexander. However, the setup is slow, and the first three seconds do not provide enough context to fully engage the viewer. The cliffhanger is high due to the intense emotional moment and the unresolved nature of Juliana's injuries, which create a strong sense of urgency and concern. The clarity of the scene is high, as the dialogue and actions are clear and the context is understandable. The emotional impact is very high, as the reunion and concern for Juliana's well-being are powerful and moving.",
+    "hook_evidence": "Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.",
+    "cliffhanger_evidence": "\"What have they done to you?\"",
+    "needs_video_review": false,
+    "overall_score": 7.865
+  }
+}

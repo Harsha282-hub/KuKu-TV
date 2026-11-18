@@ -1,0 +1,17 @@
+{
+  "signature": "96844e22aab0a6e39303d4d5b95dd7ab743c4e1eb63dc0a1ad284c09aa18285d",
+  "clip_id": 205,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 8.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The scene opens with Catherine's intense determination, setting a high hook score. The cliffhanger is slightly lower due to the resolution of the door being locked, but the dialogue and action maintain high emotional impact and clarity.",
+    "hook_evidence": "\"Ten days for the council to sit.\" Catherine raises a gloved index finger, emphasizing each point with sinister precision.",
+    "cliffhanger_evidence": "Close-up on Agnes's hands turning the ornate iron key in the wooden door's brass lock. Heavy metallic click of an iron key latching into a deadbolt.",
+    "needs_video_review": false,
+    "overall_score": 8.515
+  }
+}

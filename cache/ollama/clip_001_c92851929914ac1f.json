@@ -1,0 +1,17 @@
+{
+  "signature": "c92851929914ac1f34670336150dc33f9f6b7d97a2a27268774684cdf40aee8d",
+  "clip_id": 1,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 8.9,
+    "rationale": "The scene opens with a tense interaction between Juliana and her father, setting a somber and emotional tone. However, the initial three seconds are slow to establish the context, hence the lower hook score. The final seven seconds leave Juliana's emotional state unresolved, which adds to the cliffhanger score. The dialogue and actions are clear and emotionally charged, contributing to high clarity and emotion scores.",
+    "hook_evidence": "The scene starts with Juliana turning abruptly towards her father, but the context is not immediately clear, and the camera focuses on the father's hand, which is not immediately relevant to the main action.",
+    "cliffhanger_evidence": "The scene ends with the Matriarch declaring Clarissa as the jewel of the family, leaving Juliana's reaction and the overall situation unresolved.",
+    "needs_video_review": false,
+    "overall_score": 7.805
+  }
+}

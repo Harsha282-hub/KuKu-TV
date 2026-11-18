@@ -1,0 +1,17 @@
+{
+  "signature": "b654ed60a8f5b66ac7d0d8a095d2adfc0db5b4d553f958241316c89c7ec0398c",
+  "clip_id": 21,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.2,
+    "emotion_score": 9.0,
+    "rationale": "The scene opens with a tense interaction between Juliana and her father, Lord Ashcroft, setting a high emotional tone. However, the initial three seconds are slow to establish the conflict, lowering the hook score. The final seven seconds leave a powerful cliffhanger with Lady Ashcroft's last line, which is unresolved and emotionally charged. The dialogue and actions are clear and understandable, and the emotional impact is strong, especially in the face-to-face confrontation between Juliana and her father.",
+    "hook_evidence": "Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft. Close-up of Lord Ashcroft, his weathered face rigid with aristocratic pride and disgust. \"You will not leave this church carrying the Ashcroft name.\"",
+    "cliffhanger_evidence": "Lady Ashcroft, \"And the ledger...\"",
+    "needs_video_review": false,
+    "overall_score": 8.435
+  }
+}

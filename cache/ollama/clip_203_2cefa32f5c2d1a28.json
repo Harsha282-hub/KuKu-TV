@@ -1,0 +1,17 @@
+{
+  "signature": "2cefa32f5c2d1a2813309e17d9bd6b8c4206c37e5704e5e6539dc88184b93053",
+  "clip_id": 203,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 7.5,
+    "cliffhanger_score": 6.8,
+    "clarity_score": 8.9,
+    "emotion_score": 8.3,
+    "rationale": "The opening scene sets a tense and dramatic tone with Catherine's determination, but the camera work and dialogue are slow to establish the urgency. The cliffhanger leaves Juliana's fears unresolved, but the dialogue is clear and emotional.",
+    "hook_evidence": "Low-angle focus on a dripping candle burning on a wooden table beside a dark window looking out into the misty night. Medium close-up of Catherine in a lace nightgown and lilac robe, holding a goblet of red wine with cold determination.",
+    "cliffhanger_evidence": "Close-up of Juliana's distressed face, tears shimmering in her eyes as she looks up at Alexander. Juliana looks down at her hands, turning over her scarred palms shaped by years of herbal work. I am only a healer. The lords will never accept me.",
+    "needs_video_review": false,
+    "overall_score": 7.72
+  }
+}

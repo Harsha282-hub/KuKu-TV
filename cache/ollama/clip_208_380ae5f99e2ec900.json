@@ -1,0 +1,17 @@
+{
+  "signature": "380ae5f99e2ec90068c0bd0e1af2380f71779328d932a38900acc7792141a278",
+  "clip_id": 208,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.8,
+    "clarity_score": 9.3,
+    "emotion_score": 8.2,
+    "rationale": "The scene starts with a nervous Agnes, setting a tense atmosphere. However, the camera work in the first three seconds is not as impactful as it could be. The cliffhanger ends with Catherine's determined stare, leaving the audience wanting to know the outcome. The dialogue and actions are clear and the emotion is strong, with Catherine's resolve and Agnes's fear well conveyed.",
+    "hook_evidence": "Medium close-up of Agnes glancing nervously over her shoulder.",
+    "cliffhanger_evidence": "Catherine standing motionless in the warm candlelight, staring outward into the night with cold, unyielding ambition as the scene fades to black.",
+    "needs_video_review": false,
+    "overall_score": 8.06
+  }
+}

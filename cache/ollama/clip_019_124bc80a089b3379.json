@@ -1,0 +1,17 @@
+{
+  "signature": "124bc80a089b3379141961f3a47cc4f3aea1fae2d799d0ffdaa5ccdf78511eb9",
+  "clip_id": 19,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.2,
+    "rationale": "The scene opens with a tight shot of Juliana, setting a tense atmosphere. The dialogue between Juliana and the Mysterious Bearded Man is emotionally charged, but the hook is somewhat weak as it takes a few seconds to establish the characters and context. The cliffhanger is strong, leaving Juliana's decision unresolved. The dialogue and actions are clear, but the emotional impact is high due to the tension and Juliana's internal conflict.",
+    "hook_evidence": "\"And what do you see?\"",
+    "cliffhanger_evidence": "But he looked at me when everyone else turned away.",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

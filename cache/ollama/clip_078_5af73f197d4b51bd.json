@@ -1,0 +1,17 @@
+{
+  "signature": "5af73f197d4b51bdc13d92d12bcb366406ac6a23f3e9ac1d9fd6b15f300f515a",
+  "clip_id": 78,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.3,
+    "emotion_score": 9.1,
+    "rationale": "The hook is somewhat weak as the first three seconds show a medium shot of Juliana crying, which is not immediately engaging. The cliffhanger is strong as it ends with Alexander's determined gaze, leaving the audience curious about his next move. Clarity is high as the events are well described and understandable. The emotion is very high, with the emotional scenes of Juliana's tears and the comfort she finds in Alexander's embrace.",
+    "hook_evidence": "Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping.",
+    "cliffhanger_evidence": "Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.",
+    "needs_video_review": false,
+    "overall_score": 7.85
+  }
+}

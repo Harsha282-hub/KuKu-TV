@@ -1,0 +1,17 @@
+{
+  "signature": "7d7444b76e04c7b1b08d07002ce007139f83256d312f17518afa8acd51a6b9ee",
+  "clip_id": 147,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 8.9,
+    "emotion_score": 9.2,
+    "rationale": "The scene opens with a close-up of Lady Juliana, setting a somber and dignified tone. However, the dialogue and action in the first three seconds are not immediately clear, which slightly lowers the hook score. The cliffhanger is strong, leaving Prudence's fate unresolved. The dialogue and actions are clear, but the emotional impact is high due to the tension and Lady Juliana's plea for truth.",
+    "hook_evidence": "Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous.",
+    "cliffhanger_evidence": "Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron. Profile over-the-shoulder shot from behind Prudence toward Lady Juliana standing bound in iron cuffs at the prisoner's dock. Lady Juliana's plea, 'Tell the truth.'",
+    "needs_video_review": false,
+    "overall_score": 7.76
+  }
+}

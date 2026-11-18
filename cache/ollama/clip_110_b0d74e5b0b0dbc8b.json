@@ -1,0 +1,17 @@
+{
+  "signature": "b0d74e5b0b0dbc8b8f85021f8e467a06d2f67ca9e3db45eeb11f900657af30a3",
+  "clip_id": 110,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 7.8,
+    "clarity_score": 9.2,
+    "emotion_score": 8.9,
+    "rationale": "The opening dialogue and camera angle create intrigue but are slow to establish the context. The emotional climax of the scene is strong, but the ending leaves a cliffhanger.",
+    "hook_evidence": "\"This ring...\" and the low-angle shot of the Dowager Duchess, gripping Juliana's wrist firmly.",
+    "cliffhanger_evidence": "The Dowager Duchess' final question, 'Did your husband serve beside him?', leaves the audience uncertain of the outcome.",
+    "needs_video_review": false,
+    "overall_score": 7.805
+  }
+}

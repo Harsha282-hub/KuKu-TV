@@ -1,0 +1,17 @@
+{
+  "signature": "6f3dd2975cabc83cfd845ed792c42bfc19eeb1f761c2ab026454557b88dd6673",
+  "clip_id": 118,
+  "model": "qwen2.5:7b",
+  "temperature": 0.0,
+  "evaluation": {
+    "hook_score": 6.5,
+    "cliffhanger_score": 8.7,
+    "clarity_score": 9.3,
+    "emotion_score": 8.9,
+    "rationale": "The hook is decent but not immediately impactful due to the slow setup. The cliffhanger is strong as Catherine's final line leaves the audience uncertain about Juliana's fate. The clarity is high, and the emotion is strong due to the conflict between the characters.",
+    "hook_evidence": "The scene starts with a medium low-angle shot of Catherine, but the dialogue and action don't immediately grab attention.",
+    "cliffhanger_evidence": "\"I know exactly what I need him to believe.\"",
+    "needs_video_review": true,
+    "overall_score": 8.1
+  }
+}
